@@ -118,6 +118,11 @@ export const ACCENTS: any = {
     st_pierre_et_miquelon: 'Français de Saint-Pierre-et-Miquelon',
     rwanda: 'Français du Rwanda',
   },
+  ga: {
+    gaeltacht: 'Gaeltacht',
+    galltacht: 'Galltacht',
+    school: 'Awful school Irish',
+  },
 };
 
 export const AGES = {
