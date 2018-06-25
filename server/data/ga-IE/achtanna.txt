@@ -124,3 +124,2860 @@ An Príomh-Acht a leasú.
 An Príomh-Acht do leanúint i bhfeidhm.
 An Príomh-Acht.
 An Príomhstiúrthóir.
+An Roinn Iompair agus Cumhachta.
+An Ráta Dleachta.
+An Ríocht Aontaithe
+An Sceideal.
+An Seachtú Bliain
+An Séasúr Coiscthe d'Oisrí.
+An Séú Bliain
+An Sórt Innill
+An Tríú Bliain
+An Tuirc
+An Tír
+An bhrí atá le “an leas iomchuí”.
+An bhrí atá le “bonn-tréimhse”.
+An bhrí atá le “breac”i bhforála áirithe de na hAchta.
+An bhrí atá le “cuideachta shealbhaíochta” agus “fochuideachta”.
+An bhrí atá le “údarás sláinte” a leasú.
+An bhunlíne.
+An cathaoirleach.
+An chaibidil iomlán.
+An chionúireacht a laghdófar an méadú ar an luacháil
+An cháil ina ndéanfar ceapacháin.
+An céatadán.
+An cíos is iníoctha faoi fho-léasanna áirithe.
+An dleacht ar bharraí, slata agus teascáin iarainn agus cruach a leasú.
+An dleacht ar bharraí, slata agus teascáin áirithe iarainn agus cruach a leasú.
+An dleacht ar bháiréid gan feilt a leasú.
+An dleacht ar channaí bainne a leasú.
+An dleacht ar chathaoireacha infhillte áirithe agus ar chompáirteanna dóibh a leasú.
+An dleacht ar chlúdaigh urláir áirithe a leasú.
+An dleacht ar chomhaid chrochacha agus ar chomhpháirteanna dóibh a leasú.
+An dleacht ar chuas-earraí gloineacha maithnithe áirithe d'iarann agus de chruach a leasú.
+An dleacht ar fholcáin d'iarann teilgthe a leasú.
+An dleacht ar fhorchuimilteáin a leasú.
+An dleacht ar ghabhálais leictreachais áirithe a leasú.
+An dleacht ar ghléasra soilsiúcháin fhluarasaigh leictreachais a leasú.
+An dleacht ar ghlúcós a leasú.
+An dleacht ar ghréasáin neamhdhaite agus neamhthuartha iúit a leasú.
+An dleacht ar leann úll agus ar leann piorraí a leasú.
+An dleacht ar leapachas a leasú.
+An dleacht ar lámhainní cniotáilte olla a leasú.
+An dleacht ar lámhainní de theicstíl targlamach nó saorga áirithe a leasú.
+An dleacht ar mhéithris agus olaí áirithe a leasú.
+An dleacht ar naisc iarainn theilgthe áirithe do phíopaí a leasú.
+An dleacht ar olann iarainn agus cruach a leasú.
+An dleacht ar pháipéar greamaitheach áirithe a mhéadú.
+An dleacht ar phíopaí breochré glónraithe agus naisc a mhéadú.
+An dleacht ar phíseanna tirimithe a mhéadú.
+An dleacht ar sciorrdhúntóirí agus ar chomhpháirteanna dóibh a leasú.
+An dleacht ar sciúróirí corcáin agus ar uige le haghaidh sciúróirí corcáin a leasú.
+An dleacht ar shreanglíonra mogaill séshleasach iarainn agus cruach agus ar chompáirteanna dó a leasú.
+An dleacht ar shreangán iarainn agus cruach áirithe a leasú.
+An dleacht ar spéaclaí agus ar chomhpháirteanna dóibh a leasú.
+An dleacht ar thuáillí agus éadaí áirithe a leasú.
+An dleacht ar uige mhiotail agus ar mhiotal leathnaithe áirithe a leasú.
+An dleacht ar uigeas, líon agus fálacht shreinge áirithe a leasú.
+An dleacht ar uigí feistiúcháin a leasú.
+An dleacht ar uigí fite áirithe a leasú.
+An dleacht ar uirlísí feirme áirithe a mhéadú agus réimna dleachta a leathnú.
+An dleacht ar úscraí blastanais a leasú.
+An dleacht mháil bhreise ar cheadúnas déileálaí tobac a fhorceannadh.
+An dáta a thosóidh méadú pinsean agus a ré.
+An dáta oibritheach, éifeacht agus forleiriú.
+An fheidhm a bheidh ag lamháil chreidmheasa ar ríomh ioncaim.
+An ghné faoina dtabharfar cúiteamh agus méad cúitimh.
+An limistéar arb é atá ann
+An limistéar atá sa cheantar iascaigh.
+An lá bunaithe a cheapadh.
+An lá bunaithe.
+An lá ceaptha.
+An límistéar arb é atá ann
+An líon coimeádaithe do gach toghroinn.
+An líon coimeádaithe do thorghanna.
+An líon comhaltaí a thoghfar do dháilcheantar.
+An modh ar a dtabharfar liúntais agus ar a ngearrfar muirir (innealra agus gléasra).
+An méid seomraí a bheidh sa mhéadú nuair a bheidh sé críochnaithe
+An méid seomraí a bheidh sa teach cónaithe nuair a bheidh sé críochnaithe
+An ráta cúnaimh dhífhostaíochta a bhaineann le daoine atá ina gcónaí in aon límistéar uirbeach.
+An ráta cúnaimh dhífhostaíochta a bhaineann le daoine atá ina gcónaí in aon áit eile.
+An saghas faoisimh do phréimheanna cáilitheacha agus a mhéid.
+An séasúr coiscthe bliantúil d'eascanna.
+An séasúr coiscthe bliantúil do dhuánacht bradán.
+An séasúr coiscthe bliantúil do dhuánacht breac.
+An séasúr coiscthe bliantúil do pholláin.
+An séasúr coiscthe d'oisrí.
+An t-am chun praghas a éileamh.	
+An t-áititheoir nó an t-únaer a dhíolmhadh i gcásanna áirithe.
+An tAcht iomlán
+An tAcht iomlán (a mhéid atá nó a bhí sé riamh i bhfeidhm sa Stát).
+An tAcht iomlán.
+An tAire Airgeadais d'fheidhmiú cirt nó cumhachta is infheidhmithe ag sealbhóir scaireanna.
+An tAire Airgeadais do shealbhú agus do dhíol scaireanna.
+An tAire do thógáil talún agus focheart go héigeanta.
+An tAirteagal a Chur i bhFeidhm.
+An tEacuadór
+An tIomlán
+An tOchtú Bliain
+An tSeapáin
+An tSile
+An tSiolón
+An tSualainn
+An tSín
+An tSír
+An tUdarás d'infheistiú cistí.
+An toghlach do thoghchán coimeádaithe do thoghroinn agus scála na vótaí.
+An tráth coiscthe seachtainiúil.
+An tréimhse chun imeachta a thionscnamh.
+An tslí ina dtabharfar liúntais agus ina ngearrfar muirir (foirgnimh nó déanmhais thionscail).
+An tsuim.
+An uimhir a ghlacfar i bhfostaíocht ar mhodh printíseachta.
+An Éigipt
+An Íoslainn
+An áit a mbeifear tar éis cion a dhéanamh.
+An éifeacht a bheidh ag báis, ag foirceannadh agus ag athruithe comhpháirtíochta ar mhuirir.
+An éifeacht a bheidh ar chonartha ag ordaithe a rialú praghsanna agus táillí.
+Aoisliúntais oifigigh agus seirbhísigh an Bhoird.
+Aoisliúntas Risteáird de Brún.
+Aoisliúntas d'fhoireann bhanc taisce iontaobhais.
+Aoisliúntas d'oifigigh agus seirbhísigh an Údaráis.
+Aoisliúntas do chomhaltaí lánaimseartha an Bhoird.
+Aoisliúntas do chomhaltaí áirithe d'fhoireann Thithe an Oireachtais.
+Aoisliúntas.
+Aon chomhalta den Fho-Choiste Airgeadais a cheapfar nó a chomhthoghfar faoi mhír 
+Aon chomhaontú nach mbeidh i scríbhinn, measfar nach comhaontú é chun críocha míre 
+Aontas na hAfraice Theas
+Ar choinníoll
+Ar choinníoll nach measfar go ndéanann aon ní san alt seo toirmeasc a chur
+Ar choinníoll, aon ócáid a bheidh acmhainn bhliantúil an duine sin le cinneadh
+Ar choinníoll, i gcás aon trádála
+Ar choinníoll, má bhíonn, i gcás lena mbainfidh fo-mhír 
+Ar choinníoll, nuair a bheidh aon ríomh den tsórt sin á dhéanamh
+Arasáin a chur ar fáil faoi Achtanna na Sclábhaithe.
+Ardachadh, Cluainpríost, Cill Crónait, Cill Ia, Cill Modomhnóg, Eochaill (Tuath).
+Asbhaint agus forcháin á muirearú.
+Asbhaintí i leith scéim pinsean ranníocach.
+Athchoimeádaithe le gníomhú mura mbíonn toghchán ann.
+Athghairm
+Athghairm agus cosaint.
+Athghairm agus leasú iarmartach.
+Athghairm.
+Athrú ar ainm chuideachta a cláraíodh faoi ainm a sonraíodh le reacht.
+Athrú ar cheadúnais leaba oisrí chun éifeacht a thabhairt d'aon chomhaontú.
+Baile Cuimín, Carraig, Clár Aidhne, Tobar Pádraig.
+Baile Átha Cliath
+Baile Átha Cliath Theas (Lár)
+Baile Átha Cliath Theas (Thiar)
+Baile Átha Cliath Theas (Thoir)
+Baile Átha Cliath Thuaidh (Lár)
+Baile Átha Cliath Thuaidh (Thiar)
+Baile Átha Cliath Thuaidh (Thoir)
+Baintreach chornail nó oifigigh ar chéim níos airde.
+Baintreach mhaoir, lefteanant-chornail nó cheannfoirt.
+Baintreach, beirt leanaí cáilithe nó níos mó.
+Baintreach, gan aon leanbh cáilithe.
+Baintreach, leanbh cáilithe amháin.
+Bannaí riaracháin.
+Bealaigh éisc a iniúchadh.
+Beidh Rúnaí agus Cisteoir Oinigh an Chlub ina gcomhaltaí ex-officio den Fho-Choiste Airgeadais.
+Beidh Uachtaran, Rúnaí agus Císteoir Oinigh an Chlub ina gcomhaltaí ex-officio den Choiste Feidhmiúcháin.
+Beidh cairtlanna na Corparáide do-sháraithe.
+Beidh cumhachtaí uile na Corparáide dílsithe sa Bhord Rialtóirí.
+Beidh gnáth-cheadúnas (séasúr déanach) slaite bradán nó gnáth-cheadúnas (séasúr déanach) 
+Beidh gnáth-cheadúnas slaite bradán (séasúr déanach) nó gnáth-cheadúnas slaite bradán (séasúr déanach) 
+Beidh triaileacha praiticiúla ina gcúid de scrúduithe faoin alt seo.
+Beidh éifeacht ag na forálacha seo a leanas chun críocha an fho-ailt seo
+Beo-mhaoin na farraige a chaomhnú.
+Beodhíle a iompar d'fheirmeoirí comharsan.
+Bhliain bhreithe.
+Blianachtaí Saoil Ceannaithe: Cáin Ioncaim agus Forcháin.
+Blianachtaí Scoir (Coigeartuithe ar an Teorainn le Préimheanna Cáilitheacha).
+Blianachtaí Scoir: Cáin Ioncaim agus Forcháin.
+Blianachtaí scoir (faoiseamh i leith préimheanna, agus faoiseamh ioncaim thuillte).
+Boird Choimeádaithe.
+Bord Choláiste na Tríonóide, Baile Atha Cliath.
+Bord Mhór-Iarnród an Tuaiscirt a Fhorceannadh.
+Bord Mhór-Iarnród an Tuaiscirt a fhorceannadh.
+Bord Ospidéal Fiabhrais Bhaile Átha Cliath
+Bord coimeádaithe le meastachán bliantúil a thabhairt.
+Bord na gCon.
+Bosca gabhála brádán i gcora iascaireachta nó i ndamba muilinn iascaireachta
+Bosca tógála bradán i gcora iascaireachta nó i ndamba muilinn iascaireachta
+Bradáin agus Bric.
+Bradáin agus bric leasaithe a eisceadh.
+Breis dleathach i gcás an tiarna talún a dhéanamh deisiúcháin áirithe.
+Breis dleathach i gcás an tiarna talún do dhéanamh deisiúcháin áirithe.
+Breitheamh den Ard-Chúirt a ainmneos an Príomh-Bhreitheamh
+Bronntanais.
+Bunú an Bhoird.
+Bunú an Fhorais.
+Bunú an Údaráis.
+Burma
+Bád agus daoine a choinneáil fad atá ionchúiseamh ar feitheamh.
+CAIBIDIL I.
+CAIBIDIL II.
+CAIBIDIL III.
+CAIBIDIL IV.
+CEAPADH A COMHALTAI
+CUID I
+CUID I.
+CUID II
+CUID II.
+CUID III
+CUID III.
+CUID IV
+CUID IV.
+CUID IX.
+CUID V
+CUID V.
+CUID VI
+CUID VI.
+CUID VII
+CUID VII.
+CUID VIII
+CUID VIII.
+CUID X.
+CUID XI.
+CUID XII.
+CUID XIII.
+CUID XIV.
+CUID XIX.
+CUID XV.
+CUID XVI.
+CUID XVII.
+CUID XVIII.
+CUID XX.
+CUID XXI.
+Caibidil I.
+Caibidil II.
+Caibidil III.
+Caibidil IV
+Caibidil IV.
+Caibidil IX.
+Caibidil V.
+Caibidil VI.
+Caibidil VII.
+Caibidil VIII.
+Caidreamh le hEagrais Idirnáisiúnta Eile.
+Caidreamh leis an mBanc.
+Caipiteal na Cuideachta a mhéadú.
+Caiteachais an Aire.
+Caiteachais i gcoitinne.
+Caiteachais údarás sláintíochta.
+Caiteachais.
+Caiteachas Airí.
+Caiteachas a dhíscríobh agus an bhrí atá le “iarmhar caitheachais”.
+Caiteachas an Aire.
+Caiteachas i ndáil le bainistí duaisbhannaí.
+Caiteachas.
+Canáil a dhúnadh.
+Cathair Laga, An Cóbh (Tuath), Cnoc Rátha, Baile Ruisín.
+Cathaoirleach Bhuan-Choiste na mBanc Éireannach
+Cathaoirleach Dháil Éireann nó Cathaoirleach Sheanad Éireann a bheith breoite nó as láthair.
+Cathaoirleach agus Leas-Chathaoirleach.
+Cathaoirleach an Bhoird.
+Cathaoirleach an Údaráis.
+Cathaoirleach, Uachtarán agus Foireann.
+Cead saoráidí mianadóireachta maidir le talamh Stáit.
+Cead saoráidí oibre maidir le talamh Stáit.
+Ceada cúrsaghealltóireachta
+Ceada cúrsaghealltóireachta a thabhairt ar aird ar éileamh.
+Ceada saoráidí mianadóireachta.
+Ceadanna iascaigh.
+Ceadanna saoráidí oibre.
+Ceadúnais Leaba Oisrí.
+Ceadúnais a Fhorghéilleadh.
+Ceadúnais a fhoirceannadh le deimhniú ón Aire.
+Ceadúnais a fhorghéilleadh.
+Ceadúnais agus deimhnithe láithreacha d'fhanúint i bhfeidhm.
+Ceadúnais chun Bradáin, Bric agus Eascanna a Iascaireacht.
+Ceadúnais chun Bradáin, Bric agus Eascanna d'Iascach.
+Ceadúnais chun Bric a Iascaireacht le Slat agus Ruaim in Uiscí Áirithe.
+Ceadúnais chun Iascaireacht a Dhéanamh in Uiscí Taoide Speisialta.
+Ceadúnais chun Oisrí a Iascaireacht.
+Ceadúnais feithicle seirbhíse poiblí a aistriú.
+Ceadúnais iascaireachta in iascaigh dhílsithe a bheidh á n-oibriú ag an Aire.
+Ceadúnais le hAghaidh Iascaireachta Oisrí.
+Ceadúnais le haghaidh Iascaireachta in Uiscí Taoide Speisialta.
+Ceadúnais leaba oisrí a chúlghairm.
+Ceadúnais leaba oisrí.
+Ceadúnais limistéir fhorcoimeádta.
+Ceadúnais lorgaireachta peitriliaim.
+Ceadúnais mhangairí bradán agus ceadúnais onnmhaireoirí bradán.
+Ceadúnais rás-riain chon.
+Ceadúnais thaisceálaíochta.
+Ceadúnais áitiúla speisialta a eisiúint.
+Ceadúnais áitiúla speisialta a fhorghéilleadh.
+Ceadúnais áitiúla speisialta a thabhairt ar aird.
+Ceadúnais áitiúla speisialta agus an dleacht cheadúnais orthu.
+Ceadúnas a chúlghairm nó a athrú.
+Ceadúnas a dheonadh chun trádáil, gnó nó monaraíocht a sheoladh laistigh den aerfort.
+Ceadúnas a iarraidh.
+Ceadúnas rás-riain chon a chúlghairm nó a fhionraí.
+Ceadúnas suimitheora.
+Ceanada
+Ceanglais maidir le corprú agus cónaí.
+Ceann chora
+Ceann-chora
+Ceannach agus Díol Urrús: An Méid Iomchuí i Leith an Úis.
+Ceannach agus diol urrús: daoine a bheidh i dteideal díolúintí.
+Ceannach agus díol talún ag an mBord.
+Ceannach agus díol urrús: déileálaithe in urrúis.
+Ceannach agus díol urrús: trádálaithe seachas déileálaithe urrús.
+Ceannaire
+Ceantair Iascaigh agus Toghranna.
+Ceantair Iascaigh, Toghranna agus an Líon Coimeádaithe do gach Toghroinn.
+Ceantair iascaigh agus toghranna.
+Ceantair iascaigh nua agus toghranna nua a cheapadh.
+Ceantair phrintíseachta agus coistí printíseachta.
+Ceantar Bhaile na Cille.
+Ceantar Bhaile Átha Cliath.
+Ceantar Bheannchar lorrais.
+Ceantar Bhéal Átha Seanaigh.
+Ceantar Bhéal Átha an Fheadha.
+Ceantar Chiarraí.
+Ceantar Chonamara.
+Ceantar Chorcaí.
+Ceantar Dhroichead Átha.
+Ceantar Dhún Dealgan.
+Ceantar Leitir Ceanainn.
+Ceantar Lios Mór.
+Ceantar Loch Garman
+Ceantar Luimnigh.
+Ceantar Phort Láirge.
+Ceantar Shligigh.
+Ceantar na Gaillimhe.
+Ceapacháin.
+Ceapadh agus téarma oifige chomhaltaí an Bhoird.	
+Ceapadh maor ag deontaithe faoi orduithe um iascach oisrí.
+Ceapfar foireann an Chlub mar chinnfidh an Coiste Feidhmiúcháin.
+Ceart an Aire chun peitriliam a oibriú agus a dhiúscairt.
+Ceart an Aire chun taiscéalaíocht agus lorgaireacht a dhéanamh le haghaidh peitriliaim.
+Ceart chun ceadúnais iascaireachta oisrí.
+Ceart chun ceadúnais slaite breac a fhail.
+Ceart chun ceadúnas iascaireachta oisrí a fháil.
+Ceart chun gnáthcheadúnais iascaireachta a fháil.
+Ceart chun teacht ar iascaigh dhílsithe.
+Ceart chun teacht ar iascaigh inaistrithe.
+Ceart gabhála chun cearta duánachta a fheidhmiú.
+Ceart léasaí chun leanúint ar áitiú.
+Ceart léasaí dhílseánaigh chun léasa fhrithdhílse.
+Ceart léasaí fhoirgníochta chun léasa fhrithdhílse.
+Ceart éisteachta le linn éisteacht os comhair an Bhoird.
+Ceart úinéara chun ábhair a thógáil as srutháin.
+Cearta agus Dualgais Rialtas a Scoirfidh de bheith ina gComhaltaí.
+Cearta baincéirí a bhailíonn seiceanna atá gan formhuiniú ag a sealbhóirí.
+Cearta duánachta in iascaigh inaistrithe a fhorcoimeád.
+Cearta fo-léasaithe i gcás ina bhforceannfar an léas trí eisiachtaint nó athiontráil.
+Cearta léasaithe faoi léasanna éagtha áirithe.
+Cearta paitinne a bheidh díolta roimh an dáta feidhme.
+Ceatharlach-Cill Chainnigh
+Ceathrar
+Ceathrar.
+Ceirdeanna Ainmnithe, Ceantair Phrintíseachta agus Coistí Printíseachta.
+Ceirdeanna ainmnithe.
+Ceithre Dheichiú
+Ceithre fhichiú
+Ceithre scilling.
+Chun Airleacain Ilghnéitheacha áirithe a aisíoc leis an gCiste Teagmhais     ..
+Chun Airleacain Ilghnéitheacha áirithe d'aisioc leis an gCiste Teagmhais     ...
+Chun Bun-Oideachais, lena n-áirítear Aoisliúntais Mhúinteoirí Scoile Náisiúnta     ...
+Chun Luach Saothair áirithe a íoc     ..
+Chun Tuarastal agus Costas Coimisiún, Coistí agus Fiosrúchán Speisialta     ..
+Chun Tuarastal agus Costas Coimisiún, Coistí agus Fiosrúchán Speisialta     ...
+Chun críocha mhír 
+Chun críocha míre 
+Chun seirbhís inphinsin duine a ríomh faoin gCeathrú Sceideal sin
+Ciallaíonn an abairt “an Coiste Bainistí” Coiste Bainistí an Fhorais.
+Ciallaíonn an abairt “an Foras” an comhlacht corpraithe a bunaíodh leis an gCairt.
+Ciallaíonn an abairt “na Coimisinéirí” Coimisinéirí na dTabhartas agus na dTiomnachtaí Carthanúla d'Éirinn.
+Ciallaíonn an abairt “na Gobharnóirí” Gobharnóirí an Fhorais.
+Ciarraí Theas
+Ciarraí Thuaidh
+Cigirí.
+Cill Dara
+Cill Mantáin
+Cill na nDéar, Cill Feidhlim, na Corráin.
+Cineachadh Eastáit Réadaigh ar Bhás Duine
+Cineachadh eastáit réadaigh ar bhás duine.
+Cineálacha ceadúnas slaite breac agus dleachtanna ceadúnais orthu.
+Cinn comhairimh agus cinn chomhairimh chúnta.
+Cinneadh an Bhoird ar cheisteanna fíorais a bheith críochnaitheach.
+Cionroinnt comaoine agus malartú agus forghéilleadh leasanna léasachta.
+Cionroinnt.
+Cionta a thriail.
+Cionta ag comhlachtaí corpraithe.
+Cionta agus pionóis.
+Cionta eile maidir le báid iascaireachta mara laistigh de theorainneacha iascaigh eisiatacha an Stáit.
+Cionta faoin Acht seo a ionchúiseamh ag an Aire.
+Cionta i gcoitinne
+Cionta maidir le comhlachta corpraithe agus comhlachta neamhchorpraithe.
+Cionta, Pionóis agus Imeachta Dlí.
+Cionta.
+Ciontóirí a ghabháil.
+Ciste Caipitil.
+Cisteoir an bhoird.
+Cistí an Bhoird a infheistiú.
+Cistí an Bhoird a úsáid.
+Club Cúrsála na hÉireann.
+Clár ceadúnas.
+Clár iarrthóirí printíseachta.
+Clár printíseach.
+Clárlanna probháide ceantair.
+Clárá a chealú
+Clárú theideal an Aire chun iascach dílsithe.
+Clásail Dheiridh.
+Cléireach agus Leas-Chléireach Dháil Éireann a cheapadh.
+Cléireach agus Leas-Chléireach Sheanad Éireann a cheapadh.
+Cochall iascaireachta
+Coimeádaithe do thoghranna a thoghadh gach bliain toghcháin.
+Coimeádaithe do thoghranna.
+Coimeádaithe ex officio.
+Coimeádaithe láithreacha toghroinne d'fhanúint in oifig.
+Coimeádaí nach bhfreastalóidh ar chruinnithe a bheith dícháilithe.
+Coimeádaí toghroinne d'éirí as oifig.
+Coimeádfaidh Rúnaí an Chlub
+Coimeádáin mhiotail áirithe a úsáidtear i dtionscal na grúdaireachta a dhíolmhadh ó dhleacht.
+Coin a thréineáil ar luach saothair.
+Coinníollacha a bheidh ag gabháil le ceadúnas rás-riain chon.
+Coinníollacha a bheidh ag gabháil le ceadúnas.
+Coinníollacha i gceadúnas monaraíochta nua.
+Coistí Comhairleacha.
+Coistí Comhairlitheacha Praghsanna.
+Coistí an Fhorais.
+Coistí don Bhord.
+Coistí talmhaíochta a chorprú.
+Coistí áitiúla
+Comhairle Chomhairlitheach.
+Comhairle an Fhorais.
+Comhairle don Údarás.
+Comhalta de chomhfhoireann Thithe an Oireachtais a fhionraí ag Cathaoirleach Sheanad Éireann.
+Comhalta den Údarás a chur as oifig.
+Comhalta den Údarás do chur leasa i gconradh beartaithe in iúl.
+Comhalta tofa de bhord coimeádaithe a bheith dícháilithe ar a chiontú i gcion.
+Comhaltas a Fhionraí.
+Comhaltas cuideachta sealbhaíochta.
+Comhaltas.
+Comhaltaí amach a bheith inathcheaptha.	
+Comhaltaí an Údaráis.
+Comhaltaí d'Fhoireann Thithe an Oireachtais a Cheapadh.
+Comhaltaí d'Éirí As.
+Comhaltaí de chomhfhoireann Thithe an Oireachtais a cheapadh.
+Comhaltaí den Bhord a athcheapadh.	
+Comhaltaí den Bhord a chur as oifig.
+Comhaltaí den Bhord a chur as oifig.	
+Comhaltaí den Bhord d'éirí as agus a dhícháiliú.
+Comhaltaí den Bhord d'éirí as oifig nó a dhícháiliú.	
+Comhaltaí den Bhord do nochtadh leasa i gconradh a bheartófar a dhéanamh.
+Comhaltaí ex officio
+Comhaltaí ex officioa cheapadh i leith iascach eile a gheobhaidh Bord Soláthair an Leictreachais.
+Comhaltaí ex officioa cheapadh i leith iascaigh na Sionainne.
+Comhaltaí, oifigigh nó seirbhísigh an Bhoird a bheith ina gcomhaltaí de cheachtar Teach den Oireachtas.
+Comhaontuithe fruilcheannaigh.
+Comhaontuithe i leith faoisimh ó chánachas dúbailte ar ioncam.
+Comhaontuithe i leith faoisimh ó dhleachtanna báis dúbailte.
+Comhaontuithe maidir le dleacht stampa ar ionstraimí áirithe.
+Comhaontú i dtaobh cánachais dhúbailte a dhaingniú.
+Comhdhuille Reifrinn.
+Comhdhéanamh Coistí Comhairlitheacha Praghsanna.
+Comhdhéanamh an Bhoird.
+Comhdhéanamh an Bhoird.	
+Comhdhéanamh bord coimeádaithe.
+Comhdhéanamh na Corparáide.
+Comhlachtaí neamhchorpraithe, comhpháirtíochtaí agus pearsana.
+Comhlua an Phríomh-Achta agus Coda III.
+Comhlucht Rialuithe an Choláiste Ollscoile, Baile Atha Cliath
+Comhlucht Rialuithe an Choláiste Ollscoile, Corcaigh
+Comhlucht Rialuithe an Choláiste Ollscoile, Gaillimh, agus
+Comhshocraíochtaí i gcás díospóid cheirde.
+Comórfaidh an Fo-Choiste Airgeadais cheithre chruinniú ar a laghad gach bliain chaileandair.
+Conarthaí a choimeád i bhfeidhm agus leanúint d'imeachtaí dlí.
+Conarthaí agus ionstraimí nach bhfuil faoi shéala.	
+Conarthaí leanúnacha a choimeád i bhfeidhm.
+Conarthaí leanúnacha a choimeád i bhfeidhm.	
+Contae riaracháin Chiarraí ach amháin an chuid de atá i ndáilcheantar contae Chiarraí Thuaidh.
+Contae riaracháin Chill Dara.
+Contae riaracháin Chill Mantáin.
+Contae riaracháin Loch Garman.
+Contae riaracháin Lúbhaidh.
+Contae riaracháin Mhuineacháin.
+Contae riaracháin Ros Comáin.
+Contae riaracháin Thiobrad Árann, an Trian Theas.
+Contae riaracháin Thiobrad Árann, an Trian Thuaidh.
+Contae riaracháin an Chabháin.
+Contae riaracháin an Chláir.
+Contae riaracháin na Mí.
+Contae-bhuirg Phort Láirge agus contae riaracháin Phort Láirge.
+Contaetha riaracháin Cheatharlach agus Chill Chainnigh.
+Contaetha riaracháin Laoighise agus Ua bhFáilí.
+Contaetha riaracháin Longfoirt agus na hIarmhí.
+Contaetha riaracháin Shligigh agus Liatrama.
+Cora iascaireachta leis an Aire nó le Bord Soláthair an Leictreachais a oibriú gan saorbhearna.
+Coraí Iascaireachta, Dambaí Muilinn Iascaireachta agus Innill Sheasta.
+Coraí iascaireachta a dhéanamh ag Bord Soláthair an Leictreachais.
+Coraí iascaireachta eascanna d'oibriú gan saor-bhearna.
+Coraí iascaireachta eascannaa oibriú gan saor-bhearna.
+Corcaigh
+Corcaigh Láir
+Corcaigh Thiar
+Corcaigh Thoir
+Corprú.	
+Corrfholuntais i measc comhaltaí tofa.
+Corrfholúntais.
+Corrfholúntais.	
+Cosaint ar bhradáin ag sceitheadh i dTuaisceart Éireann.
+Cosaint d'achtacháin áirithe.
+Cosaint d'infheistíochtaí áirithe.
+Cosaint do cheannaitheoirí bona fide.
+Cosaint do chearta an Aire Poist agus Teileagrafa.
+Cosaint do chearta an Stáit.
+Cosaint i gcás idirbhearta áirithe.
+Cosaint maidir le dlínse.
+Cosc le bradáin a gabhadh tráthanna áirithe a onnmhairiú.
+Cosc le bradáin gabhadh tráthanna áirithe a onnmhairiú.
+Cosc le bric a ghabháil i mí Eanáir agus i gcuid de mhí Feabhra.
+Costa Rica
+Costais a dhámhadh.
+Costais an Aire.
+Costais riaracháin.
+Costais.
+Costas an Fhorais.
+Costas chomhaltaí na Comhairle.
+Crosairí comhréidh.
+Cruinnithe agus nós imeachta an Bhoird.
+Cruinnithe agus nós imeachta an Bhoird.	
+Cruinnithe agus nós imeachta an Údaráis.
+Cruinnithe agus nós imeachta.
+Cruinnithe.
+Cruinnithe.	
+Cruthú ar orduithe agus ar rialacha.
+Cuid a ceathair den Acht a leasú.
+Cuid a trí den Acht (deisiú long, cártaí ceiliúrtha) a leasú.
+Cuid a trí den Acht a leasú (méideanna áirithe a choigeartú).
+Cuid de chistí agróirí a dhiúscairt.
+Cuideachtana Cáilithe agus Gnóthaí Cáilithe.
+Cuideachtana Cáilithe.
+Cuideachtana eisiata.
+Cuirfear isteach an dá mhír nua seo a leanas
+Cuirfear séala oifigiúil an Aire ar na léarscáileanna oifigiúla.
+Cumhacht Breithimh Dúiche barántas a dheonú chun dul isteach in áiteanna áirithe.
+Cumhacht ag an Aire mianraí Stáit a dhíol.
+Cumhacht an Aire chun ceadúnais ghoir éisc a dheonadh.
+Cumhacht an Aire chun fiosrúcháin a dhéanamh maidir le hiascaigh.
+Cumhacht an Aire chun fodhlíthe a dhéanamh faoi rialú, bainistí, cosaint agus feabhsú iascach.
+Cumhacht an Aire chun iascaigh a thógáil ar léas le haghaidh taighde.
+Cumhacht an Aire chun orduithe um iascach oisrí a dhéanamh.
+Cumhacht an Bhoird chun airgead a fháil ar iasacht.
+Cumhacht an Bhoird chun airgead a thógáil ar iasacht go sealadach.
+Cumhacht an Bhoird chun rás-rianta con a bhunú.
+Cumhacht chun airgead a fháil ar iasacht.
+Cumhacht chun boird choimeádaithe a dhíscaoileadh.
+Cumhacht chun comhaontuithe, scéimeanna agus comhshocraíochtaí áirithe printíseachta a eisiamh.
+Cumhacht chun dul isteach agus iniúchadh a dhéanamh.
+Cumhacht chun earráid i dtuarascáil an Réiteora a cheartú.
+Cumhacht chun forálacha éagsúla a dhéanamh do limistéir éagsúla i gceantar printíseachta.
+Cumhacht chun fostóirí a dhíolmhadh i gcásanna áirithe.
+Cumhacht chun iarratas a chur chun na gCoimisinéirí.
+Cumhacht chun iasacht a fháil.
+Cumhacht chun ionadaíocht a dheonú i gcás gan aon eastát a bheith ann.
+Cumhacht chun scaireanna tosaíochta infhuascailte a eisiúint.
+Cumhacht chun talamh a thógaint agus a dhiúscairt agus chun foirgnimh a thógáil.
+Cumhacht daoine a bhfuil leas acu i leapacha oisrí chun maoir uisce a cheapadh.
+Cumhacht do na Coimisinéirí chun an Chairt a athrú.
+Cumhacht don Aire Airgeadais chun scaireanna leis an gCuideachta a thógáil.
+Cumhacht don Aire chun comhaontú a dhéanamh.
+Cumhacht na Cúirte Cuarda chun comhaontuithe a mhodhnú.
+Cumhacht na Cúirte Cuarda chun costais a chionroinnt.
+Cumhacht na cúirte chun a ordú go leigheasfar ábhar sáruithe.
+Cumhachta cigirí.
+Cumhachta oifigeach údaraithe.
+Cumhachtaí Ilghnéitheacha leis an Aire.
+Cumhachtaí agus Dualgais Ghinearálta an Bhoird.
+Cumhachtaí agus Dualgais Ilghnéitheacha an Aire.
+Cumhachtaí agus feidhmeanna an Bhoird.
+Cumhachtaí an Aire chun iascach dílsithe a oibriú.
+Cumhachtaí an Bhoird chun airgead a fháil ar iasacht.
+Cumhachtaí an Bhoird.
+Cumhachtaí chun airgead a fháil ar iasacht chun críocha ginearálta.
+Cumhachtaí daoine a cheapfaidh an tAire chun fiosrúcháin a dhéanamh.
+Cumhachtaí ginearálta daoine údaraithe.
+Cumhachtaí iniúchta, scrúdaithe agus coimeádta.
+Cumhachtaí ionadaithe pearsanta chun eastát a dhíol agus chun gníomhú mar iontaobhaithe.
+Cumhachtaí láithreacha Airí maidir le honnmhairí.
+Cumhachtaí lánroghnacha chun riarthóir a cheapadh i gcásanna áirithe.
+Cumhachtaí maoirseoirí.
+Cumhachtaí oifigeach údaraithe.
+Cuntais Bhord Coimeádaithe.
+Cuntais agus iniúchadh.
+Cuntais agus iniúchadh.	
+Cuntais agus tuarascála an Bhoird.
+Cuntais ar leithligh.
+Cuntais bhord coimeádaithe.
+Cuntais, iniúchadh agus tuarascáil ar imeachtaí.
+Cuntas iascaigh.
+Cur as oifig.	
+Cur i bhfeidhm.
+Cur isteach ar fhostóirí.
+Cuspóirí an Airteagail.
+Custaim agus Mál.
+Custaim.
+Cáilíocht chónaithe nó cáilíocht mhaoine coimeádaithe.
+Cáin Bhrabús Corparáide.
+Cáin Ioncaim i leith Díolaíochtaí áirithe.
+Cáin Ioncaim.
+Cánachas ar chuideachtaí árachais a dhéanann gnó blianachtaí.
+Cásanna a shonrú ar cheisteanna dlí.
+Céad-chabhair.
+Cóipeanna a choimeád d'orduithe um iascach oisrí.
+Cóipeanna de rialacha a chur ar taispeáint.
+Cóipeanna de thuarascála a leagan faoi bhráid Thithe an Oireachtais.
+Cóiriú Chlub Chúrsála na hÉireann.
+Cóiríocht agus saoráidí a chur ar fáil i gcomhar.
+Córam.
+Cúba
+Cúig Dheichiú
+Cúig fhichiú
+Cúig scilling.
+Cúigear
+Cúigear.
+Cúiteamh ar a n-aontófar maidir le talamh atá faoi bhlianacht talamhcheannaigh.
+Cúiteamh d'fhostaithe Theach Imréitigh Iarnród na hÉireann i gcásanna díbhe nó aistrithe.
+Cúiteamh d'fhostaithe a scaoilfear lena seirbhísí nó a ndéanfar dochar dá gcoinníollacha.
+Cúiteamh d'fhostaithe an Bhoird agus do ath-fhostaithe an Bhoird amach i gcás díbhe nó aistrithe.
+Cúiteamh d'fhostaithe ar iascaigh inaistrithe.
+Cúiteamh do dhuine ba chathaoirleach ar an mBord.
+Cúiteamh i leith barraí.
+Cúiteamh i leith iascach inaistrithe.
+Cúiteamh i leith saoráidí oibre.
+Cúiteamh i ndíshocraíocht.
+Cúiteamh oifigeach agus seirbhíseach áirithe de chuid an Bhoird a scaoilfear lena seirbhísí.
+Cúnamh airgid i leith caithimh agus cuimilte.
+Cúnamh airgid ón Aire i leith muirear bliantúla iasachta údarás áitiúla.
+Cúram agus bainistí cánach agus dleachtanna.
+Cúram agus bainistí dleachtanna.
+D'ainneoin mír 
+D'ainneoin míre 
+D'fhonn an méid comhaltaí den Bhord a ríomh a scoirfidh faoi mhír 
+D. HEATHCOAT AMORY.
+DEONTAIS
+DEONTAIS A LEITHREASU
+DEONTAIS AS AN bPRÍOMH-CHISTE
+Daingniú.
+Dambaí agus Bacainní Aiceanta.
+Dambaí tréigthe agus dambaí díomhaoine a athrú.
+Daoine a bhfuil teideal acu chun cúiteamh a fháil.
+Daoine a ghlacadh i bhfostaíocht mar phrintísigh.
+Daoine ar a bhfuil ceangal léasanna frithdhílse a dheonadh.
+Dara Bliain
+Dearbhú ón Rialtas go bhfuil staid éigeandála ann maidir le soláthar earraí.
+Dearlaic Stáit don Fhoras.
+Deich bhfichiú
+Deichiú
+Deimhnithe a eisiúint.
+Deimhnithe díolúine.
+Deimhnithe oifigeach údaraithe agus maoirseoirí.
+Deimhniú údaráis chun gníomhú mar chigire.
+Deireadh le dleacht chustam ar scannáin chinematografacha.
+Deireadh le sriantachtaí leis an méid cuntas a bheidh i mbainc thaisce.
+Deontais
+Deontais Soláthair
+Deontais Tógála maidir le Tithe Cónaithe.
+Deontais a Leithreasú
+Deontais a Leithreasú.
+Deontais agus ráthaíochtaí i leith costas caipitiúla a bhainfidh le leictreachas a sholáthar.
+Deontais as an bPríomh-Chiste
+Deontais as an bPríomh-Chiste.
+Deontais do bhoird choimeádaithe áirithe.
+Deontais do ghnóthais nach sna límistéir neamhfhorbartha dóibh.
+Deontais don Bhord.
+Deontais don Chuideachta.
+Deontais don Ród-Chiste.
+Deontais i leith Méaduithe le haghaidh Cóiríochta do Chuairteoirí.
+Deontais i leith cúitimh.
+Deontais maidir le tithe.
+Deontais neamhinaisíoctha an Bhord.
+Deontais tógála seallaí saoire, deontais tógála brú.
+Deontais.
+Dhá Dheichiú
+Dhá fhichiú
+Diúscairt airgid a gheofar mar chomaoin.
+Diúscairt talún ag an mBord.
+Dleacht Cheadúnais Bhliantúil
+Dleacht a fhorchur ar abhrais phróisithe áirithe de shnáithiní de dhéantús an duine.
+Dleacht a fhorchur ar bhrúphíobáin áirithe aispeiste.
+Dleacht a fhorchur ar chapsúil ailimíne agus ar chompáirteanna dóibh.
+Dleacht a fhorchur ar chlúdaigh urláir theicstíleacha áirithe.
+Dleacht a fhorchur ar choimeádáin mhiotail áirithe.
+Dleacht a fhorchur ar chruithneacht.
+Dleacht a fhorchur ar chuilpháipéir agus ar chuilghabhálaithe.
+Dleacht a fhorchur ar chuinneoga ime de chruach domheirgthe agus ar chompáirteanna dóibh.
+Dleacht a fhorchur ar fheadáin agus píopaí áirithe pleaistic.
+Dleacht a fhorchur ar fhormáin áirithe ailimíne.
+Dleacht a fhorchur ar fhrámaí cruiceoige agus ar chomhpháirteanna dóibh
+Dleacht a fhorchur ar ghréasáin daite nó tuartha iúit agus ar abhrais daite iúit.
+Dleacht a fhorchur ar húdaí agus múnlaí d'fheilt fionnaidh chun hataí a dhéanamh.
+Dleacht a fhorchur ar leathán, stiall agus scragall ailimíne.
+Dleacht a fhorchur ar mhótair leictreacha áirithe agus ar chomhpháirteanna áirithe dóibh.
+Dleacht a fhorchur ar pháipéar céireáilte agus ar fhillteoga páipéir chéir eáilte.
+Dleacht a fhorchur ar scannán ileitéineach áirithe.
+Dleacht a fhorchur ar spásthéitheoirí iniompair ola-adhainte áirithe agus ar chomhpháirteanna dóibh.
+Dleacht a fhorchur ar théipeanna fite áirithe.
+Dleacht a fhorchur ar théipeanna uath-ghreamaitheacha pleaistic áirithe.
+Dleacht a fhorchur ar uigí teicstíleacha a bheidh clóite, péinteáilte agus cobhraithe.
+Dleacht a fhorchur ar ítimí áirithe de chrua-earraí foirginteoirí.
+Dleacht ar earraí áirithe arna dtabhairt ón aerfort isteach i gcuid eile den Stát.
+Dleacht cheadúnais ar cheadúnais iascaireachta oisrí.
+Dleacht cheadúnais áitiúil speisialta a íoc ina tráthchodanna.
+Dleacht d'fhorchur ar abhras snáithrigh áirithe de dhéantús duine.
+Dleacht d'fhorchur ar chorntuailmí áirithe.
+Dleacht d'fhorchur ar chruithneacht-bheathaí bricfeasta réamh-ullmhaithe.
+Dleacht d'fhorchur ar cháblaí, téadracha agus sreangán dualach iarainn agus cruach.
+Dleacht d'fhorchur ar innill thalmhaíochta áirithe.
+Dleacht d'fhorchur ar leatháin iarainn agus cruach áirithe.
+Dleacht d'fhorchur ar photaí, planda atá déanta d'fheilt de pháipéar nó de laíon páipéir.
+Dleacht shiamsa —ildamhsa nó rince ar chun críocha oideachais, daoncharadais nó déirce an sochar uaidh.
+Dleacht shiamsa —límistéir tuatha.
+Dleacht shiamsa —na rátaí i gcás ildamhsa nó rince.
+Dleacht shiamsa —na rátaí i gcás taispeántas cinematagrafacha.
+Dleacht stampa ar bhannaí áirithe a fhorceannadh.
+Dleacht stampa ar fháltais áirithe a fhorceannadh.
+Dleacht stampa ar ionstraimí áirithe a fhorceannadh.
+Dleacht stampa ar pholasaithe árachais.
+Dleachta Ceadúnais i leith Gnáth-Cheadúnais Slaite Bradán.
+Dleachta Gnáth-Cheadúnais eile.
+Dleachta ar ghnáthcheadúnais iascaireachta.
+Dleachtanna Báis.
+Dleachtanna Ceadúnais i leith Gnáth-Cheadúnas Slaite Bradán.
+Dleachtanna Gnáth-Cheadúnais eile.
+Dleachtanna Stampa.
+Dleachtanna Stampaí.
+Dleachtanna ar Thobac.
+Dleachtanna ar ghnáthcheadúnais iascaireachta.
+Dleachtanna gnáthcheadúnais ar líonta tarraingthe agus ar shruth-líonta a íoc ina dtráthchodanna.
+Dliteanais a aistriú.
+Dliteanais a aistriú.	
+Dliteanais agus conarthaí.
+Dliteanais áirithe de chuid an Bhoird a urscaoileadh.
+Dliteanas an Aire i leith damáiste ó thuilte.
+Dliteanas i leith dleachtanna.
+Dliteanas i leith ráta iascaigh.
+Dlínse i gcás cionta.
+Do gach n-aon lena mbaineann.
+Doiciméid a sheirbheáil agus a chur ar aghaidh.
+Doiciméid a sheirbheáil.
+Doiciméid in áitribh gheall ghlacadóirí a iniúchadh.
+Dorú fada le haghaidh eascanna
+Droichid mheáchain cheaptha.
+Dréacht-Théarmaí Comhaontaithe atá le déanamh idir an tAire agus an Aireacht.
+Duaiseanna, agus daoine a chur thar lear.
+Dualgais chléireach bhord coimeádaithe.
+Dualgais dhaoine a fostaítear.
+Dualgais faoi údaráis sláintíochta a shannadh agus a chomhlíonadh.
+Dualgais ghinearálta an Bhoird.
+Dualgas ginearálta an Údaráis maidir lena ioncam.
+Dualgas ginearálta maidir le haidhmeanna náisiúnta.
+Duine ag a bhfuil aon leanbh cleithiúnach amháin     ..
+Duine ag a bhfuil beirt leanaí cleithiúnacha nó níos mó     ..
+Duine gan cleithiúnaí     ..     ..
+Dul ar bord arárthaigh iascaireachta agus iad a scrúdú.
+Dáilcheantair Bhuirge.
+Dáilcheantair Chontae.
+Dáilcheantair.
+Dáilcheantar
+Dámhadh cúitimh maidir le talamh faoi bhlianacht talamhcheannaigh.
+Dámhadh cúitimh.
+Dáta an Aistrithe.	
+Déanamh treoirbhallaí a ghabhann le coraí iascaireachta agus le dambaí muilinn iascaireachta.
+Déanamh urlár, pasáistí agus staighrí, agus a gcothabháil.
+Déanfaidh an tAire costais riartha an Chiste d'íoc as an gCiste.
+Déanfaidh an tAire costas riartha an Chiste a íoc as an gCiste.
+Déanfar na scaireanna stoic a shuibscríobhfaidh comhaltaí bunaidh i dtosach a eisiúint ar par.
+Díbhinní a Measfar gur as Brabúis a Carnadh roimh Dháta Áirithe a Iocadh Iad.
+Díbhinní.
+Dícháiliú chun duine a thoghadh mar choimeádaí.
+Dícháiliú chun gníomhú mar choimeádaí ex officio.
+Dícháiliú comhalta de cheachtar Teach den Oireachtas chun bheith ina chomhalta den Bhord.	
+Dícháilíocht.
+Dílseánacht pheitriliaim a dhílsiú san Aire.
+Dílsiú an Eastáit san Fhoras.
+Dílsiú eastát díthiomnóra idir lá a bháis agus an lá a dheonófar riarachán.
+Díolacháin phoiblí con.
+Díolúine Sócmhainní ó Urghabháil.
+Díolúine ag Cairtlanna.
+Díolúine ó Cháin.
+Díolúine ó dhleacht shiamsa.
+Díolúine ó dhleacht stampa.
+Díolúine ó dhleachta stampa.
+Díolúintí agus Pribhléidí Oifigeach agus Fostaithe.
+Díolúintí breise i leith ceadúnas mangairí.
+Díolúintí áirithe ó cháin bhrabús corparáide do leanúint ar marthain.
+Díscaoileadh Coistí Comhairlitheacha.
+Díscaoileadh agus forálacha i armartacha.
+Dún Laoghaire agus Ráth an Dúin
+Dún na nGall Thiar
+Dún na nGall Thoir
+E. F., as
+Eachdhruim, Baile na Cúirte, Droichead an Chláirín, Uarán Mór, Sráidbhaile.
+Eachtrannach a ionchúiseamh i leith ciona a rinneadh ar long choigríche.
+Eadarghóbhail, Béarra, Cuailleach, Cora Ghlas, Cill Ceatighearn, Cill Achadh nAoineach, Cill na Manach.
+Earlaisí a ghlacadh agus a aisíoc.
+Earraí a bhféadafaidh an tAire Orduithe um Praghas Mionreaca a Thaispeáint a Dhéanamh ina Leith.
+Earraí a thabhairt isteach san aerfort le díol ar mionreic saor ó dhleacht.
+Earraí eiscithe.
+Earraí indleachta a bheith ar iarraidh.
+Eascanna.
+Easnamh i gcistí agróirí.
+Eifeacht ceadúnas leaba oisrí.
+Eifeacht chúlghabhálach a bheith ag rialacháin áirithe.
+Eilithe ar chúiteamh agus an tAire do dhéileáil le héilithe.
+Eirí as oifig.	
+El Salvadór
+Eolas a nochtadh.
+Eolas a thabhairt don Aire.
+Eolas i dtaobh íocaíochtaí le fostaithe.
+FO-SCRIBHINN
+FORÁLACHA ILGHNÉITHEACHA.
+Faisnéis ó na éasaithe.
+Faoi réir mhír 
+Faoi réir míre 
+Faoin Acht seo
+Faoin gcéad
+Faoiseach ó rátaí.
+Faoiseamh Sealadach ó Chánachas.
+Faoiseamh i leith Caiteachais Chaipitiúil Áirithe: Cáin Ioncaim, Forcháin agus Cáin Bhrabús Corparáide.
+Faoiseamh i leith caiteachais.
+Faoiseamh ó Chánachas Dúbailte; Cáin Ioncaim, Forcháin, Cáin Bhrabús Corparáide agus Dleachtanna Báis.
+Faoiseamh ó rátaí.
+Feidhm Acht na gCoimisinéirí maidir le comhaltaí de chomhfhoireann Thithe an Oireachtais.
+Feidhm Achtanna áirithe.
+Feidhm Choda II agus Choda III den Acht.
+Feidhm Choda III.
+Feidhm Choda IV.
+Feidhm a bheith ag Sriantachtaí Iomlaoide Coigríche Airithe.
+Feidhm a bheith ag na Settled Land Acts.
+Feidhm an Achta Rialaithe maidir le comhaltaí d'fhoireann Thithe an Oireachtais.
+Feidhm forálacha áirithe.
+Feidhm i gcás printísigh a bheidh ar fostú ag an Stát.
+Feidhm maidir le comhpháirtíochtaí
+Feidhm maidir le hoifigi leis an Stát.
+Feidhm.
+Feidhmeanna Choiste Chomhairlithigh.
+Feidhmeanna a chomhlíonadh trí oifigigh nó seirbhísigh.
+Feidhmeanna an Bhoird a chomhlíonadh trína oifigigh nó a sheirbhísigh.
+Feidhmeanna an Chlub a chomhlíonadh.
+Feidhmeanna an Fhorais.
+Feidhmeanna an bhoird a fheidhmiú.
+Feidhmeanna an Údaráis i gcoitinne.
+Feidhmeanna áirithe a bheith ina bhfeidhmeanna forcoimeádta.
+Feidhmeanna áirithe a chomhlíonadh.
+Fiacha a bheidh dlite don Stát a bhaint as cúiteamh.
+Fianaise go bhfuil iascaigh eisiatacha in uiscí taoide.
+Fianaise i dtaobh méid an chostais faoina ndeachaigh an tAire.
+Fianaise i dtaobh méid uiscí inmheánacha, farraigí teorann, teorainneacha iascaigh eisiatacha agus limistéar caomhnaithe iascaigh.
+Fianaise i gcásanna áirithe.
+Fianaise.
+Fiche duine an córam do chruinniú ginearálta den Chlub.
+Fichiú
+Fionraí Chomhaltais, nó Deireadh le Comhaltas, sa Bhanc.
+Fionraí Oibríochtaí agus Socrú Oblagáidi.
+Fiosrúcháin ag an mBord agus ag an gClub.
+Fiosrúcháin ag oifigigh údaraithe.
+Fiosrúcháin i dtaobh bord coimeádaithe agus díscaoileadh na mbord sin.
+Fiosrúcháin i dtaobh bord coimeádaithe.
+Fiosrúcháin i dtaobh daoine do dhiúltú ábhair nó modhanna áirithe a úsáid chun críocha áirithe.
+Fiosrúcháin i dtaobh díospóidí agus tuarascála a thabhairt.
+Fiosrúcháin.
+Fiosrúchán i dtaobh iarratais ar cheadúnas leaba oisrí.
+Flian Mór, Gleann Corbraí, Cill Fhearghusa, Cill Mhaoláin.
+Fo-dlithe láithreacha.
+Fochearta.
+Fodhlíthe ag Socrú Séasúr Coiscthe d'Iasc Sliogánach (Seachas Oisrí).
+Fodhlíthe chun cosc a chur le tógáil éisc shliogánaigh (seachas oisrí) le linn tréimhse sonraithe.
+Fodhlíthe, orduithe agus rialacháin láithreacha d'fhanúint bhfeidhm.
+Foilseofar Leabhar na gCon gach bliain faoi údarás an Chlub.
+Foireann áitiúil a thréineáil roimh thosú ar thrádáil.
+Foireann.
+Foirgnimh agus Déanmhais Thionscail.
+Foirm an Pháipéir Bhallóide i Reifreann Bunreachta.
+Foirm cheadúnas leaba oisrí.
+Foirm cheadúnas áitiúla speisialta agus a n-éifeacht.
+Foirm chúil an pháipéir bhallóide.
+Foirm na bpáipéar ballóide i reifreann bunreachta.
+Foirm éadain an pháipéir bhallóide.
+Folaíonn na tagairtí san fho-alt seo do ghléasra tagairtí d'aon saghas líne leictreachais.
+Folaíonn tagairtí sa bhfo-alt seo do chomhlacht daoine tagairtí do chomhpháirtíocht.
+Foralacha maidir le hoibríochtaí peitriliaim.
+Foras ríofa agus modh bailithe cánach ioncaim ar dhíolaíochtaí airithe.
+Forghéilleadh.
+Forléiriú tagairtí atá sa Phríomh-Acht don Chuideachta.
+Forléiriú tagairtí d'earra a dhíol agus do sheirbhís a dhéanamh.
+Forléiriú tagairtí do mhéid nach bhfuil liúntas tugtha ina leith.
+Forléiriú tagairtí in Achtanna eile do chuideachtaí sealbhaíochta agus d'fhochuideachtaí.
+Forléiriú, cosaint agus athghairm.
+Forlíontach.
+Formheas ar théarmaí an Chomhaontaithe.
+Foráil i dtaobh caiteachas leasaithe na Cairte.
+Forála Ilghnéitheacha.
+Forála d'fhorlíonadh Coda I agus II.
+Forála ginearálta maidir le léasanna frithdhílse.
+Forála i dtaobh morgáistí trí fho-fhorléasadh.
+Forála idirlinne maidir le tae i seilbh Allmhuireoirí Tae, Tóranta, a dhiúscairt.
+Forála maidir le ceadúnais iascaireachta oisrí.
+Forála maidir le gnáth-cheadúnais iascaireachta.
+Forála maidir le hordaithe.
+Forála maidir le rialacháin, orduithe agus deimhnithe ón Aire.
+Forála maidir leis an gComhairle.
+Forála maidir leis an gCuideachta.
+Forála speisialta maidir le fianaise.
+Forálacha Airgeadais
+Forálacha Airgeadais.
+Forálacha Forlíontacha.
+Forálacha Iarmartacha ar Bhoird Áirithe a Dhíscaoileadh.
+Forálacha Ilghnéitheacha
+Forálacha Ilghnéitheacha Maidir le hIascaigh Bhradán agus le hIascaigh Fíoruisce.
+Forálacha Ilghnéitheacha.
+Forálacha Sealadacha.
+Forálacha a Bhaineann le Geall-Ghlacadóirí.
+Forálacha a bhaineann le hIasc Mara róbheag.
+Forálacha a bhaineann le teorainneacha iascaigh eisiatacha an Stáit.
+Forálacha a ghabhann le Caibidlí VI agus VII.
+Forálacha a leanann as Ciste Iostán na Sclábhaithe a fhoirceannadh.
+Forálacha a leanann as Ciste Tithíochta na hÉireann a fhoirceannadh.
+Forálacha ag a mbeidh éifeacht i gcúinsí áirithe.
+Forálacha airgeadais agus forálacha eile.
+Forálacha airgeadais.
+Forálacha ar fionraí maidir le rátaí ar iascaigh.
+Forálacha atá le comhlíonadh maidir le hinnill sheasmhacha áirithe le linn an trátha choiscthe sheactainiúil.
+Forálacha breise maidir le heolas.
+Forálacha cúitimh láithreacha.
+Forálacha eile maidir le hIascaigh Mhara.
+Forálacha eile maidir le léiriú.
+Forálacha eile.
+Forálacha forlíontacha.
+Forálacha ginearálta faoi aontú nó aistriú ag na hionadaithe pearsanta.
+Forálacha ginearálta maidir le húdarás.
+Forálacha ginearálta maidir le rialacháin.
+Forálacha i dtaobh Tógáil Éigeantach.
+Forálacha idirlinne maidir le caiteachais.
+Forálacha ilghnéitheacha maidir le boird choimeádaithe.
+Forálacha maidir le Limistéar Mhagh Bhile.
+Forálacha maidir le ceadúnais iascaireachta oisrí.
+Forálacha maidir le ceadúnais slaite breac.
+Forálacha maidir le cáin ioncaim.
+Forálacha maidir le gnáthcheadúnais iascaireachta.
+Forálacha maidir le hiascaigh dhamba mhuilinn.
+Forálacha maidir le hiascaigh neamhúsáidte.
+Forálacha maidir le himeachtaí dlíthiúla atá ar feitheamh.
+Forálacha maidir le horduithe.
+Forálacha maidir le huchtleanaí.
+Forálacha maidir le híocaíochtaí áirithe.
+Forálacha maidir le líonta scadán agus líonta eile.
+Forálacha maidir le riarachán.
+Forálacha maidir leis an Lóiste Geata i Ráth Easpoig.
+Forálacha maidir leis an bhfoireann áithreach.
+Forálacha speisialta do cheapacháin áirithe.
+Forálacha speisialta do phinsin áirithe.
+Forálacha speisialta maidir le díbhinní.
+Forálacha speisialta maidir le díola áirithe.
+Forálacha speisialta maidir le léasanna.
+Forálacha speisialta maidir le talamh cláraithe.
+Forálacha speisialta maidir le talamh neamhchláraithe.
+Fostaíocht ar mhodh printíseachta a éascú.
+Freagarthacht únaera foirgneamh.
+Fuascailt ón oblagáid chun pláta feithicle a iompar.
+Féadfaidh an Club, de bhun a chuspóirí
+Féadfaidh an bainisteoir a bheith ina chomhalta den Bhord.
+Féadfaidh an tAire tráth ar bith, le hordú, ordú faoi mhír 
+Féadfaidh an tAire údarás iascaigh eascanna a chúlghairm
+Féadfaidh scéim leasaitheach a rá go bhfuil feidhm chúlghabhálach aici.
+Féadfar a cheangal freisin le fógra faoi mhír 
+Féadfar a rá i scéim leasaitheach go n-oibreoidh sí go cúlghabhálach.
+Féadfar aon chónascadh de na deontais dá dtagraítear i míreanna 
+Féadfar cinneadh faoin alt seo a athbhreithniú
+Féadfar rátaí éagsúla tobhaigh a fhorordú do thréimhsí éagsúla.
+Féadfar rátaí éagsúla tobhaigh d'fhorordú do thréimhsí éagsúla.
+Fíneála agus Forghéilleadh.
+Fíneálacha a dhiúscairt.
+Fíneálacha.
+Fógra a fhoilsiú i dtaobh rialacha a dhéanamh nó a dhaingniú.
+Fógra go bhfuil ar intinn rialacha a dhéanamh nó a dhaingniú.
+Fógra i dtaobh Coiste Comhairlitheach a chomhdhéanamh.
+Fógra i dtaobh fiosrúcháin a dhéanamh.
+Fógra maidir le horduithe tógála saoráidí oibre.
+Fógraí a fhoilsiú i dtaobh iarratais.
+Fógraí a sheirbheáil agus a shíniú.
+Fógraí áirithe do leanúint i bhfeidhm.
+Fógraí.
+Fógráin.
+Fónfaidh na Rialtóirí agus na Rialtóirí Malartacha sa cháil sin gan cúiteamh ón gCorparáid.
+Gach Coiste Cúige
+Gaillimh Theas
+Gaillimh Thiar
+Gaillimh Thuaidh
+Gan ceart iascaigh eisiataigh a chúngú le hordú um iascach oisrí.
+Gan feidhm a bheith ag an gCaibidil seo i gcás uiscí taoide speisialta.
+Gan líon cuaillí a shíneadh níos faide nó ó bharr láin go diathrá.
+Garraíodóireacht mhargaidh.
+Gealltanas go ndeonófar ceadúnais thaiscéalaíochta agus ceadúnais lorgaireachta peitriliaim.
+Gealltanas ón Aire go ndeonóidh sé léas peitriliaim.
+Gearr-Theideal
+Gearrtheideal
+Gearrtheideal agus comhlua.
+Gearrtheideal agus forléiriú.
+Gearrtheideal agus tosach feidhme.
+Gearrtheideal, comhlua agus forléiriú.
+Gearrtheideal, comhlua agus tosach feidhme.
+Gearrtheideal, comhlua, forléiriú agus tosach feidhme.
+Gearrtheideal, forléiriú agus comhlua.
+Gearrtheideal, forléiriú agus lua.
+Gearrtheideal, forléiriú agus tosach feidhme.
+Gearrtheideal, forléiriú, comhlua agus tosach feidhme.
+Gearrtheideal, forléirú agus comhlua.
+Gearrtheideal, tosach feidhme agus comhlua.
+Gearrtheideal.
+Gearrtheideal. forléiriú agus tosach feidhme.
+Geartheideal agus comhlua.
+Ghearrtheideal agus comhlua.
+Ginearálta.
+Glaineacht.
+Gnáth-Cheadúnais (bliantúil) 
+Gnáth-Cheadúnais (bliantúil) Slaite Bradán
+Gnáth-Cheadúnais (lá agus fiche) Slaite Bradán
+Gnáth-Cheadúnais (seacht lá) Slaite Bradán
+Gnáth-Cheadúnais (séasúr déanach) 
+Gnáth-Cheadúnais (séasúr déanach) Slaite Bradán
+Gnáth-Cheadúnais Iascaireachta.
+Gnáth-Cheadúnais Slaite Bradán (bliantúil)
+Gnáth-Cheadúnais Slaite Bradán (bliantúil) 
+Gnáth-Cheadúnais Slaite Bradán (lá is fiche)
+Gnáth-Cheadúnais Slaite Bradán (seacht lá)
+Gnáth-Cheadúnais Slaite Bradán (séasúr déanach)
+Gnáth-Cheadúnais Slaite Bradán (séasúr déanach) 
+Gnáth-cheadúnais (bliantúil) 
+Gnáth-cheadúnais (séasúr déanach) 
+Gnáth-cheadúnais slaite bradán (bliantúil) 
+Gnáth-cheadúnais slaite bradán (séasúr déanach) 
+Gníomhairí chun gnáthcheadúnais iascaireachta a eisiúint.
+Gníomhairí úinéirí iascaigh.
+Gnóthais airgeadais agus daoine faoi dhíolúine ó cháin do cheannach scaireanna.
+Gnóthas a aistriú.
+Gnóthaí Cáilithe.
+Gnóthú.
+Gobharnóir an Bhainc Cheannais
+Grátaí i sruthchúrsaí as aibhneacha ionas nach rachaidh bradáin ná bric isteach iontu.
+Grúpa
+Guatamála
+Guinness & Mahon
+Haití
+Hondúras
+I bhfo-mhír 
+I gcás
+I gcás an íocaíocht as dul isteach gan an dleacht a áireamh
+I gcás ina mbeidh an tAire i dteideal, faoi fho-mhír 
+I gcás ina ndeonófar liúntas linbh
+I gcás ina seirbheálfar fógra faoi mhír 
+I gcás méadaithe a údarófar de bhun míre 
+I gcás nach gcuirfear isteach séarachas agus soláthar uisce píopaithe.
+I leith na breise ar dhá mhíle punt
+I mír 
+Iarratais ar chúiteamh.
+Iarratais chun na Cúirte.
+Iarratas chun léasóiri.
+Iarratas chun na gCoimisinéirí.
+Iasachtaí a ráthú.
+Iasachtaí.
+Iasc Sliogánach (seachas Oisrí).
+Iasc mara róbheag.
+Iasc Óg agus Iasc Póraithe a Chosaint.
+Iasc-bhealaí i ndambaí agus deisiú dambaí.
+Iascaigh Inaistrithe a Aistriú chun an Aire.
+Iascaigh Mhara.
+Iascaigh Oisrí a Chosaint.
+Iascaigh Phríobháideacha a Chosaint.
+Iascaigh a aistriú chun an Aire ó Choimisinéirí na nOibreacha Poiblí.
+Iascaigh a aistriú chun an Aire ó Choimisiún Talún na hÉireann.
+Iascaigh neamhúsáidte a atógáil nó a atrealmhú.
+Iascaigh Áirithe Stáit a Aistriú chun an Aire.
+Iascaigh Áirithe a Aistriú chun an Aire agus Forálacha Maidir le hIascaigh a Aistreofar amhlaidh.
+Idirbhearta idir daoine i gcomhlachas le chéile.
+Idirthréimhse maidir le hiascaigh inaistrithe.
+Ileacha udrocarbóin— forálacha ilghnéitheacha.
+Ilghneitheach.
+Ilghnéitheach
+Ilghnéitheach agus Ginearálta.
+Ilghnéitheach.
+Imdháilfear díbhinní pro rata i gcoimhréir le stoc caipitil na gcomhaltaí.
+Imeachta i gcoinne daoine seachas áititheoirí nó únaerí.
+Imeachtaí Dlí, Fíneálacha, Forghéilleadh, Fianaise, Fiosrúcháin agus Seirbheáil Doiciméad.
+Imeachtaí Dlí.
+Imeachtaí ag Cruinnithe.
+Imeachtaí boird choimeádaithe.
+Imeachtaí os comhair an Bhoird agus cumhachtaí an Bhoird faoi Chuid a dó.
+Imeachtaí san Ard-Chúirt i leith cánacha.
+In aghaidh blianta airgeadais áitiúla ina dhiaidh sin
+In aghaidh na bliana
+In airteagal a haon den Choinbhinsiún
+In aon chás eile, le tromlach thrí ceathrúna na cumhachta vótála iomláine.
+Inchúiseamh ag an Aire.
+Inchúiseamh i leith cionta.
+Indonesia
+Infheistíochtaí údaraithe d'athrú le hordú.
+Infheistíochtaí údaraithe.
+Iniúchadh ag oifigigh don Bhord ar thaifid i dtaobh cruithneacht a ceannaíodh.
+Innealra agus Gléasra.
+Innealra nó gléasra a úsáideadh go páirteach chun críocha nach críocha trádála.
+Innill Sheasmhacha, Coraí Iascaireachta, Dambaí Muilinn Iascaireachta agus Bacainní eile ar Ghluaiseacht Éisc.
+Innill sheasmhacha a dhíchóimeáil le linn an tséasúir choiscthe bhliantúil do bhradáin agus brio.
+Inseamnú saorga ar choin.
+Ioc trí stampaí.
+Iocaíochtaí ioncaim a roinnt ar bhlianta iomaí.
+Iocaíochtaí isteach sa Chiste Caipitiúil a fhorceannadh.
+Iocaíochtaí le léasaithe faoi léasanna peitriliaim.
+Iocaíochtaí ó bhoird choimeádaithe leis an Aire i leith ceadúnas áitiúla speisialta.
+Iocaíochtaí ón gcisteoir.
+Iompar de Bhóithre.
+Iompar, tiormú, láimhsiú agus stóráil chruithneachta ag an mBord.
+Ionadaíocht ag duánaithe breac ar bhord coimeádaithe.
+Ionadaíocht eastáit réadaigh agus eastáit phearsanta ar leithligh nó le chéile.
+Ioncam paitinne a bheith ina ioncam tuillte gcásanna áirithe.
+Ionchúiseamh i leith cionta.
+Ionstraim cheapacháin mhaoir uisce ina bharántas dóthaineach chun cumhachtaí a fheidhmiú.
+Iosrael
+Iostáin Sclábhaithe
+Is duine lán-dlíthiúnach an Chorparáid, agus, go háirithe, tá cumas inti
+Is faoi réim forálacha an Airteagail seo a dhéanfaidh an Chorparáid gach cinneadh.
+Is iad a bheidh ina gcomhaltaí den Chlub
+Is iad na brabúis iomchuí
+Is iad na críocha dá dtagraítear i mír 
+Is é an Club, ag cruinnithe ginearálta den Chlub, a chomhthoghfaidh comhaltaí comhthofa.
+Is é an t-am chun sonraí a sheachadadh faoi mhír 
+Is í suim dá dtagraítear i bhfo-mhír 
+Laghdú ar asbhaintí áirithe.
+Laoighis-Ua bhFáilí
+Laraithe agus tarraicirí neamhluchtaithe a allmhuiriú.
+Leabhair thaisce gan rialacha iontu a eisiúint.
+Leanúint d'imeachtaí dlí a bheidh ar feitheamh.
+Leanúint d'imeachtaí dlí a bheidh ar feitheamh.	
+Leapacha baoití.
+Leas léasaí faoi léas peitriliaim a shannadh.
+Leas.
+Leasa a Chosaint.
+Leasaithe iarmartacha.
+Leasuithe
+Leasuithe Ginearálta.
+Leasuithe ar an bPríomh-Acht.
+Leasuithe ar an gCoinbhinsiún.
+Leasuithe iarmartacha.
+Leasuithe ilghnéitheacha.
+Leasú ar an tsriantacht le hárthaí a cheadúnú chun iascaigh mhara.
+Leasú ar fhodhlíthe áirithe a rinneadh faoi na hachtacháin aisghairthe agus a d'fhoráil forghéilleadh.
+Leasú ar na hAchtanna maidir le liúntais bhaintreach.
+Leasú ar na hAchtanna maidir le pinsin phósta.
+Leasú ar rátaí iascaigh.
+Leasú ar thréimhse oifige chomhaltaí den Bhord.
+Leathanach
+Leithreasa-igCabhair
+Leithreasai-gCabhair
+Leor-shaoráidí pluimbéireachta téacháin agus soilsiúcháin a sholáthar i ndáil leis na hoibreacha thuasluaite.
+Limistéar
+Limistéar bailíochta ceadúnas slaite breac.
+Liosta bliantúil comhaltaí.
+Liostaí deontas.
+Liúntais Chaiteachais agus Sochair in Earraí: Cáin Ioncaim agus Forcháin.
+Liúntais agus muirir i leith cánach brabús corparáide.
+Liúntais bhliantúla (forgnimh nó déanmhais thionscail).
+Liúntais bhliantúla i leith caiteachais chaipitiúil ag ceannach ceart paitinne.
+Liúntais chothromaíochta agus muirir chothromaíochta (foirgnimh nó déanmhais thionscail).
+Liúntais chothromaíochta agus muirir chothromaíochta (innealra agus gléasra).
+Liúntais chothromaíochta agus muirir chothromaíochta a ríomh i gcásanna áirithe.
+Liúntais do Chleithiúnaithe.
+Liúntais i leith Caiteachais ar Dhreidireacht.
+Liúntais i leith caiteachais ar dhreidireacht.
+Liúntais áirithe a ghéilleadh i gcomaoin blianachta do bhanchéile nó cleithiúnaí.
+Liúntas deisiúcháin a leasú.
+Liúntas ioncaim thuillte.
+Liúntas pearsanta.
+Loch Garman
+Longfort-An Iarmhí
+Luach saothair agus caiteachas chomhaltaí an Bhoird.
+Luach saothair agus caiteachas chomhaltaí an Bhoird.	
+Luach saothair agus téarmaí oifige chomhaltaí an Údaráis.
+Luach saothair breithiúna a mhéadú.
+Luacháil Airgeadraí.
+Luacháil sochar in earraí.
+Luachálacha iascach inaistrithe a chionroinnt.
+Lucsambúrg
+Luimneach Thiar
+Luimneach Thoir
+Léasaithe faoi léasanna peitriliaim do thabhairt eolais uathu.
+Léasanna Frithdhílse.
+Léasanna a measfar gur léasanna foirgníochta iad.
+Léasanna dílseánaigh.
+Léasanna foirgníochta athnuaite.
+Léasanna foirgníochta.
+Léasanna i leith Iascach Dílsithe.
+Léasanna i leith iascach dílsithe.
+Léasanna peitriliaim.
+Léasanna páirtfhoirgnithe.
+Léiriú agus comhlua.
+Léiriú go ginearálta.
+Léiriú i gcoitinne.
+Léiriú na bhforálacha roimhe seo de chuid a ceathair.
+Léiriú.
+Línte iarnróid de chuid an Bhoird a thréigean.
+Línte iarnróid le cuideachtaí iarnróid eile a thréigean.
+Líon cleithe
+Líon comhaltaí Dháil Éireann.
+Líon cuaillí nó líon eite
+Líon mála
+Líon tarrainge
+Líon tarraingthe
+Lúb-líon
+Lúbhadh
+Maidir le Rialtóirí, Stiúrthóirí, Malartaigh, oifigigh agus fostaithe uile na Corparáide
+Maidir leis an mbille aeriompair
+Maigh Eo Theas
+Maigh Eo Thuaidh
+Maoin Fhorcoimeádta.
+Maoin a aistriú.
+Maoin a aistriú.	
+Maoin a úsáideadh chun críocha “oibríochtaí trádála díolmhaithe”.
+Maoin agus dliteanais a aistriú.
+Maoin atá dílsithe i mBord Ospidéal Fiabhrais Bhaile Átha Cliath.
+Maoin nach bhfuil dílsithe i mBord Ospidéal Fiabhrais Bhaile Átha Cliath.
+Maoin áirithe a aistriú.
+Maoir uisce a cheapadh ag daoine a bhfuil leas acu in iascaigh.
+Maoirseoirí.
+Maor-Sháirsint
+Mar dheonfar liúntais agus mar mhuirearófar cáin i gcásanna áirithe.
+Mar thabharfar liúntais agus mar ghearrfar muirir (paitinní).
+Marcáil pacáistí ina bhfuil bradáin nó bric.
+Measfar gur ioncam suimeanna áirithe.
+Measfar gur tugadh liúntas caithimh agus cuimilte i gcásanna áirithe.
+Meastachán caiteachas agus cruinniú meastachán.
+Measúnú cúitimh i leith tithe cónaithe áirithe a thóg údarás áitiúil go héigeanta.
+Meicsiceo
+Meáchan neamhualaithe chun críocha an Phríomh-Achta.
+Meán Cumarsáide.
+Mionleasuithe agus leasuithe iarmartacha.
+Miontuairiscí.
+Mná a glacadh ina gcomhaltaí den Gharda Síochána.
+Modh deonta, agus éifeacht, liúntas a thabharfar ar mhodh urscaoileadh nó aisíoc cánach.
+Modhanna Airgeadasaithe.
+Modhanna earcaíochta agus tréineála a scrúdú.
+Mogaill líonta, d'ábhar solúbtha, chun bradáin a thógáil san fharraige nó i sruthanna taoide.
+Muineachán
+Muirear i leith cánach i gcás méaduithe áirithe.
+Muirearú caiteachais iascaigh áirithe ag an mBord.
+Muirir ar shuimeanna caipitiúla a fuarthas as cearta paitinne a dhíol.
+Mura mbíonn sé Scúite nó Díloirgnithe
+Má bhíonn acmhainn bhliantúil na baintrí arna ríomh go cuí
+Má bhíonn an íocaíocht as dul isteach, gan an dleacht a áireamh
+Má bhíonn sé Scúite nó Díloirgnithe
+Má fhaillíonn nó má dhiúltaíonn máistir báid déanamh de réir iarratas faoi mhír 
+Má ritear rún de réir na míre sin roimhe seo
+Mál.
+Más rud é
+Méad cúitimh a chinneadh.
+Méad na hAisghairme
+Méaduithe áirithe a dheonú.
+Méadú ar an gcaiteachas iomlán chun tuath-límistéir a leictriú.
+Méadú ar an teorainn le hairleacain chun an Bhoird.
+Méadú ar chumhacht an Aire chun scaireanna d'fháil.
+Méadú ar leoraí-mheáchan caighdeánach a dheonú.
+Méadú ar phinsin áirithe eile.
+Méadú ar phinsin áirithe i leith seirbhíse a chríochnaigh roimh an dáta iomchuí.
+Méadú ar phinsin áirithe i leith seirbhíse a chríochnaigh tar éis an dáta iomchuí.
+Méadú ar rátaí cúnaimh dhífhostaíochta.
+Méadú ar rátaí pinsean (neamhranníocach) baintreach.
+Méadú ar rátaí pinsean sean-aoise.
+Méid na hAthghairme
+Méid na hAthghairme.
+Méid na hAthgharme
+Méid na hathghairme
+Méideanna bliantúla a íocfaidh an tAire leis an Údarás.
+Mínithe agus Fianaise i dtaobh Iascaigh Eisiatacha a bheith in Uiscí Taoide.
+Mínithe i gcoitinne.
+Mínithe.
+NIALL BLÉINE
+Na Filipíneacha
+Na Rialtais a bhfuil an Comhaontú seo sínithe thar a gceann comhaontaíonn siad mar leanas
+Na Rátaí Cúnaimh Dhífhostaíochta.
+Na Stáit Aontaithe
+Na codanna fíoruisce go léir de na huiscí at á i gCeantar Bhaile na Cille.
+Na codanna fíoruisce go léir de na huiscí atá i Limistéar Charn Uí Néid—Corr Rubha.
+Na codanna fíoruisce go léir de na huiscí atá i Limistéar Cheann an Uain-Faill Fhia.
+Na codanna fíoruisce go léir de na huiscí atá i Limistéar Rinn an Bharraigh—Dún Téide.
+Na codanna fíoruisce go léir de na huiscí atá i gCeantar Bhaile Átha Cliath.
+Na codanna fíoruisce go léir de na huiscí atá i gCeantar Bheannchar Iorrais.
+Na codanna fíoruisce go léir de na huiscí atá i gCeantar Bhéal Átha an Fheadha.
+Na codanna fíoruisce go léir de na huiscí atá i gCeantar Chonamara.
+Na codanna fíoruisce go léir de na huiscí atá i gCeantar Dhroichead Átha.
+Na codanna fíoruisce go léir de na huiscí atá i gCeantar Lios Mór.
+Na codanna fíoruisce go léir de na huiscí atá i gCeantar Loch Garman.
+Na codanna fíoruisce go léir de na huiscí atá i gCeantar na Gaillimhe.
+Na codanna fíoruisce go léirdenahuiscilaistigh den Stát atá i gCeantar Bhéal Átha Seanaigh.
+Na codanna fíoruisce go léirdenahuiscí laistigh den Stát atá i Limistéar Chorrán Binne— Ceann Mhálainne.
+Na comhaltaí d'fhoireann Thithe an Oireachtais a bheith ina státseirbhísigh don Stát.
+Na farraigí teorann.
+Na hAicmí Ghnáth-Cheadúnas Slaite Bradán
+Na hAicmí Gnáth-Cheadúnas Slaite Bradán
+Na haicmí daoine lena mbaineann na rátaí cúnaimh dhífhostaíochta atá leagtha amach sa Sceideal seo.
+Na huaire a bheidh comhaltaí d'fhoireann Thithe an Oireachtais as láthair ar dualgas.
+Na huiscí atá i ngach toghroinn.
+Na huiscí go lé amháin na codanna fíoruisce díobh) atá i gCeantar na Gaillimhe.
+Na huiscí go léi amháin na codanna fíoruisce díobh) atá i gCeantar Bhaile na Cille.
+Na huiscí go léi amháin na codanna fíoruisce díobh) atá i gCeantar Bheannchar Iorrais.
+Na huiscí go léir (ach amháin na codanna fíoruisce díobh) atá i gCeantar Chonamara.
+Na huiscí go léir (ach amháin na codanna fíoruisce díobh) atá i gCeantar Dhroichead Átha.
+Na huiscí go léir (ach amháin na codanna fíoruisce díobh) atá i gCeantar Loch Garman.
+Na huiscí go léir (ach amháin na codanna fíoruisce díobh) atá i gceantar Lios Mór.
+Na huiscí go léir arb é atá iontu
+Na huiscí go léir atá i gCeantar Phort Láirge ach amháin
+Na huiscí go léir atá sna codanna fíoruisce
+Na huiscí go léir i gCeantar Luimnigh, ach amháin
+Na huiscí go léir sna codanna fíoruisce
+Na rátaí pinsin in aghaidh na seachtaine de réir an ghráid mhíchumais
+Na teorainneacha le deontais áirithe a mhéadú.
+Na toghranna ceantair seo a leanas
+Naoi bhfichiú
+Naoi nDeichiú
+Neamhchlaontacht.
+Neamhní
+Neamhúsáid Iascach Dílsithe.
+Neamhúsáid iascach dílsithe.
+Neamhúsáid shealadach foirgneamh nó déanmhas tionscail.
+Nicearagua
+Nithe a fhorghéillfear a dhiúscairt.
+Nuair a bheidh aon mheastachán á dhéanamh de bhun mír 
+NÍL
+Ní bhaineann an fo-alt seo leis an dleacht ghnáthcheadúnais is iníoctha i leith
+Ní bhaineann an fo-alt seo leis an dleacht ghnáthcheadúnais is iníoctha maidir le
+Ní bhainfidh mír 
+Ní bheidh feidhm ag mír 
+Ní cosaint comhfhostaíocht.
+Ní fhorléireofar aon ní i mír 
+Ní fhorléireofar mír 
+Ní fhéadfar aon duine a chomhthoghadh ina chomhalta comhthofa den Chlub
+Ní gá stampa ar ionstraim cheaptha seachvótálaí faoi mhír 
+Ní nochtfaidh an Bord eolas.
+Ní áireofar brabúis, gnóchan ná caillteanais i gcás oibríochtaí trádála díolmhaithe.
+Nós imeachta.	
+Oblagáidí thrádálaithe tae cláraithe áirithe.
+Ocht bhfichiú
+Ocht nDeichiú
+Ocht scilling agus sé phingin.
+Ocht scilling.
+Oibleagáid ar áititheoirí iascach inaistrithe cuntais a thabhairt don Aire.
+Oibleagáidí áirithe atá ar an Aire a aistriú chun an Fhorais.
+Oibleagáidí úinéirí meaisíní hiodrálacha a fhaigheann soláthar ó aibhneacha bradán.
+Oibreacha Dhún Dealgán a dhílsiú.
+Oibriú Iascach Dilsithe ag an Aire.
+Oibriú agus Diúscairt Iascach Dílsithe.
+Oibriú iascach dílsithe ag an Aire.
+Oibríochtaí Airgeadasaithe.
+Oibríochtaí Ilghnéitheacha.
+Oibríochtaí trádála díolmhaithe.
+Oifigigh Chosanta Iascaigh Mhara.
+Oifigigh agus Seirbhísigh.
+Oifigigh agus seirbhísigh (seachas an Príomh-Stiúrthóir) don Údarás.
+Oifigigh agus seirbhísigh an Bhoird.
+Oifigigh agus seirbhísigh don Bhord amach a aistriú.
+Oifigigh agus seirbhísigh láithreacha d'fhanúint in oifig nó i bhfostaíocht.
+Oifigigh agus seirbhísigh.
+Oifigigh bhord coimeádaithe.
+Oifigigh áirithe a aistriú agus conarthaí seirbhíse áirithe a choimeád i bhfeidhm.
+Oifigigh údaraithe.
+Oifigigh.
+Oifigí agus áitribh.
+Oifigí an Bhoird.
+Oifigí.
+Oiriúnú tagairtí atá in Acht na gCoimisinéirí don Acht Rialaithe.
+Oisrí.
+Onnmhuiriú con.
+Ordaithe a dhaingniú.
+Orduithe a dhaingniú.
+Orduithe a fhoilsiú.
+Orduithe a leagadh faoi bhráid Thithe an Oireachtais.
+Orduithe a leagadh faoi bhráid Titho an Oireachtais.
+Orduithe a leagan faoi bhráid Thithe an Oireachtais.
+Orduithe dílseacháin.
+Orduithe eisiaimh.
+Orduithe pícháiliúcháin.
+Orduithe um Iascach Oisrí.
+Orduithe um iascach oisrí a fhoirceannadh.
+Orduithe á cheangal an praghas mionreaca a thaispeáint.
+Orduithe ón Aire.
+Ordú a dhaingniú.
+Ordú um iascach oisrí a leasú.
+P ódú.
+PROTOCOL
+Paitinní.
+Panama
+Paragua
+Peiriú
+Peitriliam Stáit a dhílsiú san Aire.
+Peitriliam eile a dhílsiú san Aire.
+Peitriliam.
+Pinsean a mhéadú.
+Pinsin
+Pinsin Chréachta—Saighdiúirí.
+Pinsin Sceidealta.
+Pinsin a mhéadú.
+Pinsin seirbhíse agus pinsin mhíchumais a mhéadú.
+Pionóis mar gheall ar Chionta Ilghnéitheacha.
+Pionóis mar gheall ar chionta.
+Pionóis mar gheall ar iasc a maraíodh go mídhleathach nó a fuarthas marbh a thógáil.
+Pionóis.
+Pionós ar dhaoine a chaithfidh ballasta amach in áiteanna míchearta.
+Pionós mar gheall ar bhradán nó breac a thógáil i gcora eascann.
+Pionós mar gheall ar dhaoine a bheidh ag iascaireacht go dleathach a chosc.
+Pionós mar gheall ar dhul isteach gan cead ar thailte chun críocha iascaireachta
+Pionós mar gheall ar dhul isteach gan údarás in iascach eisiatach.
+Pionós mar gheall ar dhíobháil a dhéanamh do leapacha oisrí ceadúnaithe.
+Pionós mar gheall ar fhoghail a dhéanamh ar leaba oisrí cheadúnaithe.
+Pionós mar gheall ar gan ainmneacha na n-úinéirí a bheith péinteáilte ar bháid iascaireachta.
+Pionós mar gheall ar iascaireacht ag duine neamhcheadúnaithe in uiscí taoide speisialta.
+Pionós mar gheall ar iascaireacht bradán nó breac le téada in abhainn.
+Pionós mar gheall ar iascaireacht le líonta in iascach eisiatach gan ce adón úinéir.
+Pionós mar gheall ar iascaireacht neamhúdaraithe i linnte príobháideacha.
+Pionós mar gheall ar inneall sceidealta neamhcheadúnaithe, seachas slat agus ruaim, a úsáid.
+Pionós mar gheall ar inneall sceidealta neamhcheadúnaithe, seachas slat agus ruaim, d'úsáid.
+Pionós mar gheall ar líonta a úsáid le linn an trátha choiscthe sheachtainiúil.
+Pionós mar gheall ar rabhadh a thabhairt do dhaoine a bheidh ag iascaireacht go mídhleathach.
+Pionós mar gheall ar thrál nó traimil a úsáid contrártha do fhodhlíthe.
+Polasaithe árachais bhannaí infhuascailte.
+Polláin.
+Port Láirge
+Portáin.
+Praghas a mheasúnú.	
+Praghsanna Earraí agus Táillí i leith Seirbhísí.
+Pribhléidí Cumarsáide.
+Printísigh a theagasc.
+Printísigh do choimeád taifead i dtaobh a dtréineála.
+Prionsabail Oibríochta.
+Prátaí a spréáil.
+Príobháideach
+Príomh-Dhochtúir Oifigiúil.
+Príomh-Oifigeach Feidhmiúcháin Údarás Sláinte Bhaile Átha Cliath.
+Próiseanna monaraíochta.
+Rabhadh a Chuirfear ar Urrúis.
+Ranníoc ó Bhardas Bhaile Átha Cliath a chealú.
+Ranníoca a chreidiúnú.
+Ranníoca faoi chúnant le haghaidh eolaíochtaí aiceanta a mhúineadh.
+Ranníoca ó chomhairlí contae le coistí talmhaíochta.
+Ranníoca ón Aire i leith muirear bliantúla iasachta údarás tithe.
+Reifreann i dtaobh an Togra chun an Bunreacht do leasú.
+Riail ghinearálta maidir le cáin ar fhearchéilí agus ar bhanchéilí.
+Rialacha (ábhair fhorordaithe).
+Rialacha a dhéanfaidh coiste printíseachta a dhaingniú.
+Rialacha ag rialú cáilíochtaí oideachais.
+Rialacha ag rialú na haoise íosta le haghaidh printíseachta.
+Rialacha ag sonrú foirm chonartha phrintíseachta a dhéanfar trí ghníomhas.
+Rialacha agus rialacháin láithreacha.
+Rialacha aicmithe printíseachta.
+Rialacha cúirte chun críocha an Phríomh-Achta.
+Rialacha do rialú díbhe.
+Rialacha do rialú tréineála.
+Rialacha do thoirmeasc préimheanna printíseachta.
+Rialacha i dtaobh tréimhse printíseachta.
+Rialacha maidir le Comhaltas agus Cruinnithe Údarás Sláinte a bhunaítear leis an Acht seo.
+Rialacha maidir le boscaí i gcoraí iascaireachta bradán agus i ndambaí muilinn iascaireachta.
+Rialacha maidir le tuarascála fostóirí ar ascnamh.
+Rialacháin a leagan faoi bhráid Thithe an Oireachtais.
+Rialacháin agus Rialacha i gcoitinne.
+Rialacháin agus rialacha i ndáil le rás-rianta con.
+Rialacháin faoi iascaireacht ag sealbhóirí ceadúnas áitiúila speisialta.
+Rialacháin i dTaobh Líonta.
+Rialacháin leasa.
+Rialacháin maidir le Coraí Iascaireachta agus Dambaí Muilinn Iascaireachta.
+Rialacháin maidir le Déanamh Inneall Seasmhach agus lena nÚ sáid.
+Rialacháin maidir le Líonta.
+Rialacháin maidir le cúrsáil.
+Rialacháin maidir le déanamh líonta cuaillí agus cochall iascaireachta agus lena n-úsáid.
+Rialacháin maidir le suimitheoirí.
+Rialacháin shláinte.
+Rialacháin um imeachtaí os comhair an Bhoird.
+Rialacháin á áirithiú go n-íocfar tobhaigh ar chúrsa-gheallta.
+Rialacháin.
+Riarachán.
+Rogha i gcás comharbais faoi uacht nó díthiomnacht.
+Rogha i gcás ina gcuirfear innealra nó gléasra in ionad innealra nó gléasra.
+Roinn I.
+Roinn II.
+Roinn III.
+Roinn IV.
+Roinn V.
+Roinn VI.
+Ros Comáin
+Rásaíocht Chon.
+Ráta an Phinsin sa tseachtain
+Ráta an phinsin in aghaidh na bliana faoi láthair
+Ráta an phinsin in aghaidh na seachtaine faoi láthair
+Ráta an phinsin phósta in aghaidh na seachtaine
+Ráta an tobhaigh chruithneachta.
+Ráta iascaigh a bhailiú agus a ghnóthú.
+Ráta méadaithe an phinsin in aghaidh na bliana
+Ráta méadaithe an phinsin in aghaidh na seachtaine
+Ráta méadaithe an phinsin phósta in aghaidh na seachtaine
+Rátaí Seachtainiúla
+Rátaí Seachtainiúla Pinsean (Neamhranníocach) Baintreach.
+Rátaí Tosaíochta Dleachtanna Custam ar Thobac Neamhmhonaraithe.
+Rátaí ar Iascaigh.
+Rátaí ar iascaigh.
+Rátaí athscrúdaithe na bpinsean a deonaíodh
+Rátaí iascaigh ar iascaigh léasaithe.
+Rátaí iascaigh arna ngearradh faoi achtacháin aisghairthe.
+Rátaí méadaithe
+Ráthaíocht Stáit le hiasachtaí sealadacha.
+Ráthaíochtaí ón Aire.
+Réamhrá.
+Réamhráiteach agus Ginearálta
+Réamhráiteach agus Ginearálta.
+Réamhráiteach.
+Réim na dleachta ar léinte a leathnú.
+Ríochta Aontaithe.
+Rúin neamhghnácha agus rúin speisialta.
+Sa bhfo-alt seo ciallaíonn “suimeanna iomchuí”, maidir le húdarás áitiúil, suimeanna
+Sa bhfo-alt seo, ciallaíonn an abairt “an t-oifigeach iomchuí”
+Saighdiúir Singil
+Saighdiúirí.
+San alt seo folaíonn an briathar “táirgeadh” aon phróis nó oibríocht thionscail.
+San fho-alt seo
+Saor-bhearnaí a dhéanamh i gcoraí iascaireachta.
+Saor-bhearnaí i gcoraí iascaireachta
+Saoráidí Oibre.
+Saoráidí chun suí síos.
+Saoráidí níocháin.
+Scar-airgead agus duaiseanna a shocrú.
+Sceideal A
+Sceideal A. Suibscríobh chun Stoic Chaipitil na Corparáide Airgeadais Idirnáisiúnta.
+Sceideal B
+Scilling agus sé phingin.
+Sciob-líon
+Scoláireachtaí.
+Scrúduithe.
+Scála Pinsean Míthreora agus Pinsean Créachta do Chomhaltaí Sheirbhíse Altranais an Airm.
+Scála an Phinsin
+Scála na nDleacht Gnáth-cheadúnais.
+Scála na nDleachtanna Gnáth-Cheadúnais.
+Scéimeanna aoisliúntais láithreacha a bhuanú i gcás fostaithe Oibreacha Dhún Dealgan.
+Scéimeanna aoisliúntais láithreacha a bhuanú i gcás fostaithe agus ath-fhostaithe an Bhoird amach.
+Scéimeanna comhshuimithe agus eadarscartha.
+Scéimeanna sochar scoir a cheadú.
+Scóp Feidhme an Choinbhinsiúin arna Leasú.
+Seacht bhfichiú
+Seacht nDeichiú
+Seacht scilling agus sé phingin.
+Seachtar an córam do chruinniú den Choiste Feidhmiúcháin.
+Sealbhóirí Oifige nó Fostaíochta Inphinsin.
+Sealbhú agus infheistiú airgid Bhanc Taisce an Phoist.
+Sean-Bhord Ospidéal Fiabhrais Chorcaighe.
+Seasamh Airí Stáit mar scairshealbhóirí.
+Seasamh na Corparáide Maidir le Próis Bhreithiúnach.
+Seiceadóir seiceadóra ina ionadaí don tiomnóir bunaidh.
+Seiceadóirí agus Rlarthóirí
+Seiceanna gan formhuiniú mar fhianaise ar íocaíocht.
+Seilbh Oifige.
+Seilbh a fháil ar chodanna d'aibhneacha nó de lochanna le hais iascach cora (fíoruisce) áirithe.
+Seilbh oifige dhaoine a ceapadh chun postanna eisiata.
+Seirbheáil Doiciméad.
+Seirbheáil doiciméad.
+Seirbhísí Traenach a Scor agus Iarnróid agus Canálacha a Dhúnadh.
+Seirbhísí traenach a fhorceannadh.
+Seisear
+Seisear.
+Seisiún agus Caibidil
+Seisiún agus Caibidil nó Uimhir agus Bliain
+Seisiún agus Caibidil nó Uimhir agus Bliain.
+Seolfar oibríochtaí na Corparáide de réir na bprionsabal seo a leanas
+Seomraí neamhóiriúnacha.
+Siosón agus Caibidil
+Siosón agus Caibidil nó Uimhir agus Bliain
+Slaite Bradán
+Slat Bhradán
+Slat Bradán
+Sligeach-Liatraim
+Sláinte.
+Slí éaluithe i gcás tóiteáin.
+Sochair Scoir agus Sochair eile do Stiúrthóirí agus d'Fhostaithe: Cáin Ioncaim agus Forcháin.
+Sochair in earraí a chur san áireamh.
+Soilsiú.
+Soláthair
+Soláthar d'uisce óil.
+Soláthar speisialta le haghaidh caiteachais chaipitiúil áirithe.
+Srian ar Acht.
+Srian ginearálta.
+Srian le Láithreacha Inneall Seasmhach.
+Srian le Scaireanna a Aistriú nó a Chur i nGeall.
+Srian le caiteachas ag boird choimeádaithe.
+Srian le cineálacha áirithe líonta iascaireachta a iompar ar bháid iascaireachta mara.
+Srian le coraí iascaireachta, dambaí muilinn iascaireachta nó innill sheasmhacha a úsáid i bhfíoruisce.
+Srian le deiseanna a iompar a chúngódh mogall lín.
+Srian le forálacha láithreacha cúitimh.
+Srian le líonta a úsáid i bhfíoruisce.
+Srian le meabhrán agus airteagail chomhlachais a athrú.	
+Srian le méid deontas áirithe ón gCuideachta.
+Srian le pinsin bhreise agus pinsin phósta a dheonú.
+Srian le rás-rian con a oibriú.
+Srian le ródsheirbhísí do phaisnéirí a thionscnamh agus a athrú.
+Srian le scéim aoisliúntais a dhéanamh.	
+Srian le trádáil, gnó nó monaraíocht a sheoladh laistigh den aerfort.
+Srian leis an Stát do ráthú bintiúirí na Cuideachta.
+Srian leis an bhForas Tionscal do thabhairt deontas.
+Srianta le Bradáin agus Bric a Dhíol agus a Onnmhairiú lena nDíol.
+Srianta le Ceadúnais Iascaireachta a Eisiúint.
+Srianta le bradáin agus bric a onnmhairiú lena ndíol.
+Srianta le báid iascaireachta mara choigríche a theacht isteach i dteorainneacha iascaigh eisiatacha an Stáit.
+Srianta le ceadúnais a eisiúint i leith líonta le haghaidh iascaireachta in iascaigh áirithe.
+Srianta le cumhachtaí an Aire.
+Srianta le feidhmiú na gcumhachtaí a thugtar do chomhaltaí agus d'oifigigh bhord coimeádaithe.
+Srianta le halímhuiriú agus ceannach tae.
+Srianta le hiascaireacht eascann le linn an tséasúir choiscthe bhliantúil d'eascanna.
+Srianta le hoisrí a thógáil.
+Srianta le líonta a úsáid.
+Srianta le peitriliam a chuardach agus a fháil.
+Srianta leis an gceart chun léasa fhrithdhílse.
+Srianta maidir le Tráthanna Iascaireachta Bradán, Breac, Pollán, agus Eascann, agus Forálacha Foghabhálacha.
+Sriantachtaí ar Bhradáin agus Bric a Dhíol agus d'Onnmhuiriú le Díol.
+Sriantachtaí ar Cheadúnais Iascaireachta d'Eisiúint.
+Sriantachtaí ar oisrí a thógaint.
+Sruth-líon
+Stiúrthóir an Fhorais.
+Stiúrthóirí, oifigigh nó seirbhísigh na Cuideachta a bheith ina gcomhaltaí de cheachtar Teach den Oireachtas.	
+Stoc Caipitil.
+Stoc-Mhargadh Bhaile Atha Cliath, nó
+Stoc-Mhargadh Chorcaighe.
+Stádas na Corparáide.
+Suainliosanna atá ann a fho-roinnt chun ábhar príobháideachta a sholáthar d'othair sa Teach.
+Suibscríobh.
+Suimeanna nach mó ná
+Suíomh Oifigí.
+SÉAMAS Ó RIAIN.
+Sábháltacht.
+Sáirsint Ceathrú-Sháirsint Complachta
+Sáirsint Complachta Ceathrú-Sháirsint Cathláin
+Sé Dheichiú
+Sé fhichiú
+Sé scilling.
+Séala an Bhoird.
+Séala an Bhoird.	
+Séala an Fhorais.
+Séala an Údaráis.
+Séala boird choimeádaithe.
+Séala.
+Séasúr Coiscthe bliantúil do bhradáin agus bric.
+Séasúr coiscthe bliantúil do bhradáin agus bric.
+Séasúr coiscthe bliantúil do dhuánacht bradán agus pionóis mar gheall ar dhuánacht bradán lena linn.
+Séasúr coiscthe d'iasc sliogánach (seachas oisrí).
+Síniú.
+Sócmhainní a Bheith Saor ó Shriantachtaí.
+Sócmhainní agus Dliteanais Bhord Mhór-Iarnród an Tuaiscirt a Aistriú.
+TAR ÉIS COMHAONTÚ mar leanas
+TREORACHA I DTAOBH AN PÁIPÉAR SEO DO MHARCÁIL.
+Tabharfar fógra don Aire i dtaobh seaftaí nó tollaphoill a tholladh.
+Tabhartais.
+Tagairtí áirithe don Phríomh-Acht a fhorléiriú.
+Taifid shuirbhéir eachta iascach inaistrithe.
+Tailann
+Taisclanna.
+Taiscéalaíocht agus forbairt pheitriliaim.
+Talamh a thógáil agus a dhiúscairt.
+Talamh agus gnó a dhíol.
+Talamh iarnróid tréigthe a dhíol le comhlacht poiblí.
+Talamh áirithe a eisiamh.
+Tar éis comhaontú mar leanas
+Tarraingt neamhdhleathach: an dara cion agus cionta ina dhiaidh sin.
+Tarscaoileadh.
+Teacht i bhFeidhm.
+Teaghais Bheaga a Fháil
+Teideal
+Teideal.
+Teocht.
+Teorainn forimeallach na bhfarraigí teorann.
+Teorainn le creidmheas iomlán—cáin bhrabús corparáide.
+Teorainn le creidmheas iomlán—cáin ioncaim.
+Teorainn le dliteanas.
+Teorainn le méid iomlán deontas.
+Teorainn le ráthaíochtaí ón Aire a leathnú.
+Teorainneacha iascaigh eisiatacha an Stáit.
+Thar ceann Rialtas na
+Tiobraid Árann Theas
+Tiobraid Árann Thuaidh
+Tionscnamh na Corparáide.
+Tithe don Lucht Oibre
+Tobac Neamhmhonaraithe
+Tobac.
+Tobhach cruithneachta a ghnóthú.
+Tobhach cruithneachta.
+Tobhaigh ar Gheall-Ghlacadóirí i leith cúrsa-gheallta.
+Tobhaigh is iníoctha ag geall-ghlacadóirí ceadúnaithe ar chúrsa-gheallta.
+Toghcháin tríbhliantúla choimeádaithe.
+Toghroinn Fhioruisce “B” de Cheantar Bhaile Átha Cliath.
+Toghroinn Fhíoruisce “B” de Cheantar Bhaile na Cille.
+Toghroinn Fhíoruisce “B” de Cheantar Bheannchar Iorrais.
+Toghroinn Fhíoruisce “B” de Cheantar Bhéal Átha Seanaigh.
+Toghroinn Fhíoruisce “B” de Cheantar Bhéal Átha an Fheadha.
+Toghroinn Fhíoruisce “B” de Cheantar Chonamara.
+Toghroinn Fhíoruisce “B” de Cheantar Dhroichead Átha.
+Toghroinn Fhíoruisce “B” de Cheantar Dhún Dealgan.
+Toghroinn Fhíoruisce “B” de Cheantar Lios Mór.
+Toghroinn Fhíoruisce “B” de Cheantar Loch Garman.
+Toghroinn Fhíoruisce “B” de Cheantar na Gaillimhe.
+Toghroinn Fhíoruisce “C” de Cheantar Leitir Ceanainn
+Toghroinn Fhíoruisce “C” de Cheantar Luimnigh.
+Toghroinn Fhíoruisce “C” de Cheantar Shligigh.
+Toghroinn Fhíoruisce “D” de Cheantar Chiarraí.
+Toghroinn Fhíoruisce “D” de Cheantar Leitir Ceanainn.
+Toghroinn Fhíoruisce “D” de Cheantar Luimnigh.
+Toghroinn Fhíoruisce “D” de Cheantar Phort Láirge.
+Toghroinn Fhíoruisce “D” de Cheantar Shligigh.
+Toghroinn Fhíoruisce “E” de Cheantar Chiarraí
+Toghroinn Fhíoruisce “E” de Cheantar Luimnigh.
+Toghroinn Fhíoruisce “E” de Cheantar Phort Láirge.
+Toghroinn Fhíoruisce “F” de Cheantar Chiarraí.
+Toghroinn Fhíoruisce “F” de Cheantar Chorcaí.
+Toghroinn Fhíoruisce “F” de Cheantar Luimnigh.
+Toghroinn Fhíoruisce “F” de Cheantar Phort Láirge.
+Toghroinn Fhíoruisce “G” de Cheantar Chiarraí.
+Toghroinn Fhíoruisce “G” de Cheantar Chorcaí.
+Toghroinn Fhíoruisce “H” de Cheantar Chorcaí.
+Toghroinn Fhíoruisce“E” de Cheantar Chorcaí
+Toghroinn Thaoide “A” (ach de Cheantar Chorcaí.
+Toghroinn Thaoide “A” de Cheantar Bhaile na Cille.
+Toghroinn Thaoide “A” de Cheantar Bhaile Átha Cliah.
+Toghroinn Thaoide “A” de Cheantar Bheannchar Iorrais.
+Toghroinn Thaoide “A” de Cheantar Bhéal Átha Seanaigh.
+Toghroinn Thaoide “A” de Cheantar Bhéal Átha an Fheadha.
+Toghroinn Thaoide “A” de Cheantar Chiarraí.
+Toghroinn Thaoide “A” de Cheantar Chonamara.
+Toghroinn Thaoide “A” de Cheantar Dhroichead Átha.
+Toghroinn Thaoide “A” de Cheantar Dhún Dealgan.
+Toghroinn Thaoide “A” de Cheantar Leitir Ceanainn.
+Toghroinn Thaoide “A” de Cheantar Lios Mór.
+Toghroinn Thaoide “A” de Cheantar Loch Garman.
+Toghroinn Thaoide “A” de Cheantar Luimnigh.
+Toghroinn Thaoide “A” de Cheantar Shligigh.
+Toghroinn Thaoide “A” de Cheantar na Gaillimhe.
+Toghroinn Thaoide “B” de Cheantar Chiarraí.
+Toghroinn Thaoide “B” de Cheantar Chorcaí.
+Toghroinn Thaoide “B” de Cheantar Leitir Ceanainn.
+Toghroinn Thaoide “B” de Cheantar Luimnigh.
+Toghroinn Thaoide “B” de Cheantar Phort Láirge.
+Toghroinn Thaoide “B” de Cheantar Shligigh.
+Toghroinn Thaoide “C” de Cheantar Chiarraí.
+Toghroinn Thaoide “C” de Cheantar Chorcaí.
+Toghroinn Thaoide “C” de Cheantar Phort Láirge.
+Toghroinn Thaoide “D” de Cheantar Chorcaí.
+Toghroinn Thaoide“A” de Cheantar Phort Láirge.
+Toirmeasc ar Innill Sheasmhacha, Coraí Iascaireachta agus Dambaí Muilinn Iascaireachta, le hEisceachtaí Áirithe
+Toirmeasc ar bhradáin neamhshéasúracha a onnmhairiú.
+Toirmeasc ar cheadúnais a eisiúint do sciob-líonta sa chuid taoidmhear d'Abhainn na Sionainne.
+Toirmeasc ar chochaill iascaireachta in áiteanna áirithe.
+Toirmeasc ar chúrsa-ghealltóireacht ag geall-ghlacadóirí gan cead.
+Toirmeasc ar ghnáthcheadúnais iascaireachta a eisiúint i leith uisci taoide speisialta.
+Toirmeasc ar ghnáthcheadúnais iascaireachta d'eisiúint i leith uiscí taoide speisialta.
+Toirmeasc ar ghníomhacht pholaitíochta.
+Toirmeasc ar mhodhanna áirithe trálaeireachta laistigh de theorainneacha iascaigh eisiatacha an Stáit.
+Toirmeasc ar shuimeanna a bhaint as páigh.
+Toirmeasc le heolas a nochtadh.
+Tollaphoill, seaftaí nó asraonta tréigthe a chlúdach
+Tosach feidhme Coda III.
+Tosach feidhme.
+Tosóidh an Chorparáid ar oibríochtaí ar an dáta a chomórfar an cruinniú sin.
+Tosú méadaithe.
+Triúr
+Triúr.
+Trádálaithe tae a chlárú.
+Tréimhsí craolta a cheadú.
+Trí Dheichiú
+Trí fhichiú
+Trí scilling.
+Tuairisceáin chun an Bhoird i dtaobh cruithneacht a ceannaíodh.
+Tuairisceáin maidir le cúiteamh.
+Tuairisceáin ó shealbhóirí ceadúnas áitiúla speisialta.
+Tuarascáil ar leithligh.
+Tuarascáil bhliantúil agus eolas don Aire.
+Tuarascáil bhliantúil an Fhorais.
+Tuarascáil bhliantúil ón Aire.
+Tuarascáil bhliantúil.
+Tuarascáil bhliantúil.	
+Tuarascála a fhoilsiú agus Eolas a Chur ar Fáil.
+Tuarascála leath-bhliantúla a leagan faoi bhráid Thithe an Oireachtais.
+Tuarascálacha an Aire maidir le éasanna.
+Tuarastal an Ard-Reachtaire Cuntas agus Ciste a mhéadú.
+TÁ NA RIALTAIS, A BHFUIL A SÍNIÚ FAOI SEO
+Tá anseo ina dhiaidh seo sínithe thar ceann Stát áirithe, lena n-áirítear an Stát.
+Táillí a bhailiú agus a dhiúscairt.
+Táillí ar iarratas ar chúiteamh.
+Táillí is iníoctha leis an gComhairle.
+Táillí áirithe a shocrú.
+Táillí.
+Téarma Oifige.	
+Téarma oifige coimeádaithe.
+Téarmaí agus coinníollacha iompair.
+Téarmaí léasa fhrithdhílse arna socrú ag an gCúirt.
+Uachtarán Dhlí-Chumann Corpraithe na hÉireann
+Uachtarán Stoc-Mhargadh Bhaile Atha Cliath, agus
+Uachtarán Stoc-Mhargadh Chorcaighe
+Uimhir
+Uimhir agus Bhain na hIonstraime Reachtúla.
+Uimhir agus Bliain
+Uimhir agus Bliain na hIonstraime Reachtúla.
+Uimhir na bliana tar éis an luacháil a mhéadú
+Uiscí Iascaireachta a chosaint ar Nimhiú agus ar Thruailliú.
+Uiscí a chosaint ar thruailliú.
+Uiscí breac sceidealta.
+Uiscí inmheánacha.
+Uiscí taoide speisialta.
+Uragua
+Usáid an Eastáit.
+Usáid talún atá tadhlach le hionaid iascaireachta ag iascairí.
+Veiniséala
+Vótáil ag daoine i bhfostaíocht ceann comhairimh áitiúla.
+Vótáil.
+a ainm agus a sheoladh a insint
+a bhacfaidh nó a choiscfidh feidhmiú aon chumhachta dá dtugtar leis an alt seo
+a bheidh tarraingte ag an mbaincéir air féin nó ar bhaincéir eile
+a bheith ag aon chruinniú cúrsála údaraithe
+a bheith ag aon díolachán poiblí con.
+a bheith ar aon rás-rian con
+a bheith comhlíonta ag an gcuideachta i gcás na haicme scaireanna sin.
+a cheapadh leis seo ina Mhaor Uisce chun iascach
+a chinnfidh an t-údarás.
+a chleamhnóidh leis an gClub i rith aon tréimhse trí mblian
+a chuirfeas i gcéill go bréagach gur cigire é
+a chuirfidh aon bhacainn i saor-bhearna chora iascaireachta, nó
+a chuirfidh aon líon nó cnáib ar maos in uiscí ar bith, nó
+a chuirfidh cosc go toiliúil ar ghluaiseacht gealóga nó gilidíní bradán, breac nó eascann
+a chuirfidh dhá líon nó níos mó ar chúl a chéile, nó
+a chur san áireamh chun aon cheann de chríocha na scéime.
+a deonaíodh i leith seirbhíse a chríochnaigh an lá iomchuí nó dá éis
+a dhul thar
+a dhíol nó a dhiúscairt mar is cuí leis.
+a eisiúint.
+a fheisteoidh, nó a choimeádfaidh, líonta as a chéile ar síneadh trasna aon abhann
+a ghearr an tAire faoin alt sin.
+a iarraidh ar an mBord méad an chúitimh sin a chinneadh.
+a luaithe is féidir tar éis deireadh na tréimhse atá sonraithe i mír 
+a mhuirearaigh an méid céanna cánach a cheanglann an fógra a íoc
+a mhéadú
+a oibrítear idir an t-aerfort agus áit lasmuigh den Stát, agus
+a ordú dó
+a phearsanós aon duine a bheas ainmnithe in aon deimhniú den tsaghas sin
+a rinne an t-údarás sin ar feadh a bhreithiúnais nó a mbreithiúnais
+a rinneadh an lá a tugadh an fógra
+a scriosadh.
+a shuíomh.
+a sháróidh rialachán faoin alt seo, nó
+a shárós (trí ghníomh nó neamhghníomh) aon cheann d'fhorála an Achta seo
+a shéalú le séala an bhoird, agus
+a shíniú ag triúr comhaltaí ar a laghad den bhord.
+a staid.
+a thréimhse phrintíseachta a chríochnú chun sástachta an choiste, agus
+a thógfaidh, a mharóidh, nó a dhíothóidh aon iasc in iasc-bhealach, nó
+a ullmhú agus a chló san fhoirm fhorordaithe
+a úsáidfeas go feasach aon taifead nó dearbhú bréagach mar adúradh
+a úsáidfidh aon inneall iascaireachta i saor-bhearna, nó
+a úsáidtear d'aontoisc chun iasc a thógáil nó mar chabhair chun iasc a thógáil
+ach amháin le toiliú an choiste sin.
+ach gan dul thar
+ach ní briseadh air deonú riaracháin sealadach má dheonaítear probháid ina dhiaidh sin.
+ach ní fholaíonn sé aon ioncam ó chuideachta infheistíochta
+ach ní fholaíonn sé breac geal.
+ach ní fholaíonn sí
+aerárthaí a dheisiú nó a chothabháil san aerfort
+ag an talamh lena mbainfidh an fógra.
+ag comhalta den Gharda Síochána
+agus a mhainneoidh nó a dhiúltóidh an t-eolas sin a thabhairt, nó
+agus a shonrófar sa chomhaontú.
+agus buirg na Gaillimhe.
+agus ceantair uirbeacha Chaisleán an Bharraigh agus Chathair na Mart.
+agus ceantair uirbeacha Chloch na Coillte agus an Sciobairín.
+agus ceantair uirbeacha Lios Tuathail agus Thrá Lí.
+agus ceantair uirbeacha an Chóibh, Mhainistir Fhear Maighe, Mhainistir na Corann agus Eochaille.
+agus ceantar uirbeach Bhun Dobhráin.
+agus ceantar uirbeach Bhéal Átha na Sluaighe.
+agus déanfaidh an Bord de réir an iarratais sin.
+agus déanfar an t-iarmhéid ar scór an chuntais a chorprú i gcuntais ghinearálta an Bhoird.
+agus folaíonn sé duine ar bith atá le bheith nó a bhí ina stiúrthóir.
+agus forléireofar “údarás forfheidhmiúcháin” dá réir sin.
+agus gur chríochnaigh sé a phrintíseacht leis an gceird sin.
+agus i gcás aon roghnú a dhéanamh den sórt a luaitear i mír 
+agus i gcás ina dtabharfaidh scairshealbhóir fógra faoi mhír 
+agus is é an t-iarmhéid ioncam na cuideachta in aghaidh na tréimhse.
+agus mar sin de i gcás aon díola ina dhiaidh sin.
+agus ní infheisteofar é in aon tslí eile.
+agus sa mhír dheiridh roimhe seo folaíonn “comhlacht daoine” comhpháirtíocht.
+agus scoirfear dá réir sin de na suimeanna sin a íoc.
+ainm an duine ag á mbeidh an íocaíocht le déanamh.
+ainm an duine chun ar eisíodh é
+ainm an duine chun ar heisíodh é
+ainm an duine dar deonadh an ceadúnas, agus
+ainm an duine lena mbeidh an íocaíocht le déanamh.
+ainm na cuideachtan dar tugadh an deimhniú sin
+ainm, sloinne agus seoladh agus dáta báis an tiomnóra nó an díthiomnóra
+ainmneacha agus tuairiscí na seiceadóirí nó na riarthóirí, agus
+ainmneacha agus áiteanna cónaithe na ndaoine ar eisíodh ceadúnais chucu, agus
+ainmnigh a áit chónaithe
+ainmnigh an t-iascach, an abhainn, nó an cósta farraige, cibé acu é
+ainmnigh an áit chónaithe nó na háiteanna cónaithe
+aistreofar roth-dhíle bóthair agus tram-riain chun an Aire Tionscail agus Tráchtála.
+aistrithe amach as, nó
+an Comhaontú seo a leasú.
+an bhliain a mbeidh sé bailí agus i bhfeidhm ina haghaidh
+an bhliain ar ina leith a bheas sé bailí agus i bhfeidhm
+an ceathrú cuid d'uimhir iomlán comhaltaí an údaráis, nó
+an chuid taoidmhear d'Abhainn na Sionainne
+an cineál innill iascaireachta lena mbaineann sé.
+an coinníoll gurb éard í cothabháil nó feabhsú slí loingseoireachta cuain, inbhir nó uisce-bhealaigh
+an comhalta a iompar san fheithicil go dtí an droichead meáchain.
+an cíos a bheas ar forcoimeád leis an bhfo-léas, nó
+an deimhniú oiriúnachta sin, agus
+an dleacht cheadúnais áitiúil speisialta a íocadh i leith an cheadúnais sin.
+an dtagann liúntas cothromaíochta nó muirear cothromaíochta den scor, agus, má thagann
+an duine ag ar iníoctha an cúiteamh sin
+an duine lenar iníoctha an cúitimh sin
+an earra lena mbaineann an deimhniú sin
+an fheithicil a dhíluchtú má bhíonn sí luchtaithe.
+an fhoirm ina gcoimeádfar cuntais bord
+an fhoráil den Acht seo ar fúithi a bheartófar an rialachán beartaithe a dhéanamh
+an fichiú cuid den mhéad caighdeánach.
+an forghéilleadh sin a fhógairt tráth an bhreithnithe, ná
+an leas iomchuí san fhoirgneamh nó sa déanmhas a dhíol
+an lá sin agus dá éis—Coiste Feidhmiúcháin an Chlub
+an lú lá d'Aibreán.
+an lú lá de Lúnasa.
+an mhír seo a leanas a chur in ionad mhír 
+an mhír seo leanas
+an méid a chosnós sé toradh taighde thalmhaíochta d'fhoilsiú agus a chur amach, agus
+an phróis mhonaraíochta a húdaraítear leis an deimhniú sin a sheoladh.
+an praghas uasta a shocrú ar a bhféadfar an t-earra sin a dhíol
+an slí ina ndéanfar an t-iniúchadh, agus
+an stoc caipitil a mhéadú nó a laghdú.
+an séasúr coiscthe d'oisrí, maidir le haon áit
+an sórt agus an méad cúitimh is iníoctha faoin dámhachtain sin
+an sórt innill iascaireachta lena mbaineann sé.
+an t-inneall iascaireachta oisrí lena mbaineann sé
+an tAire
+an tAire.
+an tIontaobhaí Poiblí
+an teorainn ama a fhorordú chun aon éileamh den tsórt sin adúradh a dhéanamh
+an toghroinn (ar toghroinn den cheantar iascaigh sin í) inar eisíodh é
+an toghroinn cheantair (ar toghroinn cheantair den cheantar iascaigh sin é) inar heisíodh é
+an toghroinn dár eisíodh gach ceadúnas díobh sin.
+an trealamh iascaireachta go léir a úsáidtear i ndáil leis.
+an trádáil, an gnó nó an mhonaraíocht lena mbaineann an ceadúnas.
+an tréimhse a shocraítear leis an bhfodhlí sin.
+an tréimhse ar ar a feadh a bheidh sé bailí agus i bhfeidhm
+an tréimhse ar ina leith a bheas sé bailí agus i bhfeidhm
+an tréimhse choiscthe duánachta i nDeireadh Fómhair, agus
+an tsuim iomchuí, nó
+an áit fágála agus an ceann scríbe luaite ann.
+ansin déanfar an chúis a dhíbhe.
+ansin, chun críocha clásail 
+ansin, d'ainneoin aon riail dlí, ní gá don Bhreitheamh sin
+aon airgead a íoc do réir téarmaí aon cheadúnais suimitheora a bheidh aige
+aon bhallasta, truflais nó substaint eile a chur síos
+aon bharr talmhaíochta nó garnóireachta
+aon bhradán nó breac nár maraíodh go dleathach, nó
+aon choinníoll a bheidh ag gabháil leis an gceadúnas a athrú
+aon choinníoll a bheidh ag gabháil leis an gceadúnas a chúlghairm
+aon choinníoll nua a chur ag gabháil leis an gceadúnas.
+aon chríoch a chabhródh leis an trádáil onnmhuiriúcháin chon a fhorbairt
+aon chríoch eile a chabhródh le tionscal na gcon a fheabhsú agus a fhorbairt.
+aon cháin a íocadh ar an méid sin.
+aon chárta vótála a chuirfear amach faoi mhír 
+aon duine a bhfuil leas aige i gcaomhnú éisc aon abhann nó locha
+aon duine a dhlíonn, faoi fhorálacha na Coda seo, an cúiteamh sin a íoc.
+aon duine a éilíonn go bhfuil teideal aige chun an chúitimh sin.
+aon duine a éilíonn go bhfuil teideal aige chun cúitimh den sórt sin
+aon fhodhlí arna dhéanamh faoi aon achtachán aisghairthe
+aon ghníomhaire chun cosc bitheolaíochta a chur le loitmhíola plandaí.
+aon iascach atá dílsithe i gCoimisinéirí Talún na hÉireann, ná
+aon iascach atá dílsithe i gCoimisinéirí na nOibreacha Poiblí in Éirinn.
+aon iascach atá dílsithe i mBord Soláthair an Leictreachais, ná
+aon iascach atá dílsithe san Aire, ná
+aon liúntas cothromaíochta a tugadh dó i leith an chaiteachais.
+aon liúntas taighde eolaíochta a tugadh dó i leith an chaiteachais, agus
+aon líon scríbe nó aon líon eile a fhágáil san uisce
+aon mhíng mhillteach nó loitmhíol ar aon chéim beois, nó
+aon ordú nó rialachán arna dhéanamh faoi aon achtachán aisghairthe
+aon ríchíos nó suim eile a íocfar i leith paitinn a úsáid, agus
+aon sceith bhric nó gilidíní bric
+aon seirbhís nó saoráid iompair eile.
+aon sonraí eile a bheidh forordaithe nó a mheasfaidh an coiste a bheith oiriúnach.
+aon síniú ar an bPrótocol seo agus a dháta.
+aon talamh, oifigí nó áitribh a cheannach nó a thógaint ar léas, agus
+aon tráth, aon bhacainn i saorbhearna chora iascaireachta nó i mbealach éisc, nó
+ar aon aisce.
+ar aon phiara, cé, caladh, lamairne, duga nó áitreabh duga, nó
+ar chósta na mórthíre nó aon oileáin, nó
+ar dháta nach luaithe ná cúig bliana déag roimh éag dá léas dílseánaigh, agus
+ar feadh aon tréimhse eile nach mbeidh an muileann á oibriú.
+ar fostaí dílseánach, mar mhínitear sin san alt sin, di é.
+ar gach punt d'fhuílleach na breise
+ar gach punt den chéad deich míle
+ar gach punt den chéad dá mhíle punt
+ar gach punt den chéad mhíle punt
+ar ioncam é de bharr luach saothair ó aon oifig nó fostaíocht inphinsin, nó
+arb é Captaen an Gharda, Tithe an Oireachtais, é.
+arb é Captaen an Gharda, Tithe an Oireachtais, é;’.
+arb é Cléireach nó Leas-Chléireach Dháil Éireann, nó Sheanad Éireann é, nó
+arb é Cléireach nó Leas-Chléireach Dháil Éireann, nó Sheanad Éireann, é, nó
+arb é an Maoirseoir, Tithe an Oireachtais, é, nó
+athghairfear na focail “duine d'fhoireann Thithe an Oireachtais nó”.
+atá ag síneadh le talamh atá ar áitiú ag an sealbhóir.
+atá aistrithe chun an Aire, faoi Chaibidil III den Chuid seo.
+atá dílsithe san Aire faoi Chaibidil II den Chuid seo, nó
+atá greamaithe sa talamh trasna abhann nó trasna cuid d'abhainn
+atá á riaradh sa Stát, agus
+atá á theachtadh ar iontaobhais neamhinaisghairmthe faoi dhlí an Stáit
+bainne deighilte a bheifear a tharraingt ó uachtarlann nó ó stáisiún deighilte uachtair, nó
+beartanna slándála maidir le hoibríochtaí peitriliaim
+beidh Coimisiún na Talún ina bpáirtí sa chomhaontú sin.
+beidh an duine sin ciontach i gcion faoin alt seo.
+beidh an duine sin ciontach i gcion faoin bhfo-alt seo.
+beidh an duine sin ciontach i gcion.
+beidh an mainnitheoir ciontach i gcion faoin bhfo-alt seo
+beidh an ráiteas ann dá dtagartar i mír 
+beidh an tAire Airgeadais ina pháirtí sa léas sin.
+beidh an áit fágála agus an ceann scríbe luaite ann.
+beidh breith na hArd-Chúirte ar an achomharc ina breith chríochnaitheach dochloíte.
+beidh cathaoirleach an údaráis, má bhíonn sé i láthair, ina chathaoirleach ar an gcruinniú
+beidh deireadh leis an gcoiste comhairleach
+beidh feidhm ag na forálacha seo a leanas
+beidh foréadan urláir an bhosca ar aonchothrom le leaba aiceanta na habhann
+beidh ina theannta cibé eolas a iarrfaidh an tAire.
+beidh ionscálaí agus heic an bhosca inaistrithe agus inoscailte
+beidh na cumhachtaí sin go léir ag Radio Éireann
+beidh saor-chead isteach aige go dtí aon seafta, tollapholl nó croíán mar a dúradh.
+beidh sé arna shíniú ag na hionadaithe pearsanta
+beidh sé ciontach i gcion.
+beidh sé i dteideal a roghnaithe mar chathaoirleach ar an gcruinniú sin.
+beidh sé séalaithe le séala an bhoird choimeádaithe sin.
+beidh éifeacht ag na folálacha seo a leanas
+beidh éifeacht ag na forála seo a leanas
+beidh éifeacht ag na forálacha seo a leanas
+beidh éifeacht ag na forálacha seo a leanas 
+bheith istigh ar aon bheart is mír ag aon chruinniú cúrsála údaraithe
+bheith istigh ar aon rás con ar aon rás-rian con
+cabhail
+caomhnú peitriliaim
+cead cúrsa-ghealltóireachta
+ceada a fhionraí agus a chúlghairm
+ceada den sórt sin a fhionraí agus a chúlghairm
+ceadúnais a fhionraí agus a chúlghairm
+ceadúnais den sórt sin a fhionraí agus a chúlghairm
+ceadúnais iascaireachta a cheannach.
+ceadúnais slaite breac (bruach-úinéir), agus
+ceadúnais slaite breac (ginearálta)
+ceadúnais slaite breac (sóisear).
+ceadúnaithe do thabhairt eolais don Bhord
+ceadúnaithe do thabhairt eolais don Bhord.
+ceadúnas mangaire bradán, nó
+ceadúnas onnmhaireora bradán.
+ceadúnas rás-riain chon
+ceadúnas slaite bradán a bheas bailí go ceann tréimhse nach giorra ná bliain, nó
+ceadúnas slaite bradán atá bailí ar feadh tréimhse nach giorra ná bliain, nó
+ceadúnas slaite breac (bruach-úinéir), dleacht cheadúnais sé phingin
+ceadúnas slaite breac (bruach-úinéir), nó
+ceadúnas slaite breac (ginearálta), dleacht cheadúnais cúig scilling
+ceadúnas slaite breac (ginearálta), nó
+ceadúnas slaite breac (sóisear), dleacht cheadúnais sé phingin.
+ceadúnas slaite breac (sóisear).
+ceadúnas slaite breac.
+ceadúnas áitiúil speisialta.
+ceann-chora, nó
+ceantair iascaigh nua a cheapadh (trí chónascadh, foroinnt nó eile)
+ceapachán is ardú céime do dhuine is oifigeach cheana féin don Údarás
+ceapfaidh an bord comhlacht baincéireachta chun gníomhú mar chisteoir dóibh.”
+ceapfaidh an tAire oifigeach chun an fiosrúchán sin a dhéanamh
+ceapfaidh an tAire oifigeach don Aire chun an fiosrúchán sin a dhéanamh
+ceart chun aon ní acu seo a leanas a dhéanamh
+ceart chun iarnród nó trambhealach a chlaonadh.
+ceart chun séaracha, mórphíopaí uisce agus píopaí a chlaonadh.
+ceartchun foirgnimh a scartáil a chuireann isteach ar pheitriliam a oibriú mar is ceart.
+chun a cheangal ar gheall-ghlacadóirí a dhlíonn tobhaigh a íoc
+chun aon aistriú ar an obair a sholáthar, d'athsholáthar, a léiriú nó d'fhoilsiú;”.
+chun aon chríche dá bhforáiltear rialacháin le haon cheann d'fhorálacha na Coda seo, agus
+chun aon chríche eile atá dleathach
+chun aon chríche eile atá dleathach.
+chun aon earraí acu seo a leanas a tharraingt d'fheirmeoir eile ar luaíocht
+chun beodhíle a tharraingt ar luaíocht, is beodhíle
+chun costas reatha na Cuideachta a íoc.
+chun críche a cheadaíonn an dlí idirnáisiúnta, nó
+chun críocha mhír 
+chun soláthar oiriúnach a dhéanamh maidir le caiteachas caipitil.
+ciallaíonn an abairt “Breitheamh Dúiche” Breitheamh den Chúirt Dúiche.
+ciallaíonn an abairt “abhainn bradán” aon abhainn a ghnáthaíonn bradáin.
+ciallaíonn an abairt “an bhliain chaighdeánach”
+ciallaíonn an abairt “an séasúr coiscthe bliantúil” an séasúr coiscthe bliantúil do bhradáin agus bric.
+ciallaíonn an abairt “an tAire” an tAire Tailte.
+ciallaíonn an abairt “an tAire” an tAire Talmhaíochta.
+ciallaíonn an abairt “an tAire”an tAire Tailte.
+ciallaíonn an abairt “bád iascaireachta mara coigríche” bád iascaireachta mara nach bád iascaireachta mara Éireannach.
+ciallaíonn an abairt “bád iascaireachta mara Éireannach” bád iascaireachta mara
+ciallaíonn an abairt “bád iascaireachta mara”
+ciallaíonn an abairt “ceadúnas eiscithe” aon cheadúnas arb éard é
+ciallaíonn an abairt “ceadúnas leaba oisrí” ceadúnas arb é atá ann
+ciallaíonn an abairt “ceadúnas slaite bradán” ceadúnas chun bradáin a iascaireacht le slat agus ruaim.
+ciallaíonn an abairt “ceadúnas slaite bradán”ceadúnas chun bradáin d'iascach le slait agus ruaim.
+ciallaíonn an abairt “ceadúnas slaite breac” ceadúnas arb éard é
+ciallaíonn an abairt “codanna inaistrithe”, maidir le cora bradán
+ciallaíonn an abairt “cora bradán” aon chora is
+ciallaíonn an abairt “cora iascaireachta” aon tógáil, déanmhas nó bacainn
+ciallaíonn an abairt “dleacht cheadúnais”
+ciallaíonn an abairt “duine údaraithe” aon duine is
+ciallaíonn an abairt “gnáth-cheadúnas (bliantúil) 
+ciallaíonn an abairt “gnáth-cheadúnas (séasúr déanach) 
+ciallaíonn an abairt “gnáth-cheadúnas slaite bradán (bliantúil) 
+ciallaíonn an abairt “gnáth-cheadúnas slaite bradán (séasúr déanach) 
+ciallaíonn an abairt “gnáth-cheadúnas slaite bradán”gnáthcheadúnas iascaireachta chun bradáin d'iascach le slait agus ruaim.
+ciallaíonn an abairt “iascach dílsithe” iascach
+ciallaíonn an abairt “iascach inaistrithe” aon iascach is
+ciallaíonn an abairt “inneall iascaireachta neamhdhleathach” inneall iascaireachta nach inneall iascaireachta dleathach é.
+ciallaíonn an abairt “inneall seasmhach” aon inneall arb é atá ann
+ciallaíonn an abairt “maor uisce coimeádaithe” maor uisce arna cheapadh ag bord coimeádaithe.
+ciallaíonn an abairt “maor uisce” duine is
+ciallaíonn an abairt “na hachtacháin aisghairthe” na hachtacháin a aisghairtear leis an Acht seo.
+ciallaíonn an abairt “ordú um iascach oisrí” ordú arb é atá ann
+ciallaíonn an abairt “ráta iascaigh” ráta
+ciallaíonn an abairt “slat agus ruaim” slat agus ruaim singil.
+ciallaíonn an abairt “trátha an lae” an tréimhse ó éirí gréine go luí gréine.
+ciallaíonn an briathar “clárú” clárú sa Chlár.
+ciallaíonn an briathar “forordú” forordú le rialacha ón gComhairle faoin Acht seo.
+ciallaíonn an briathar “forordú” forordú le rialacháin arna ndéanamh ag an Aire faoin Acht seo.
+ciallaíonn an briathar “forordú” forordú le rialacháin arna ndéanamh ag an mBord faoin Acht seo.
+ciallaíonn an briathar “forordú” forordú le rialacháin ón Aire faoin Acht seo.
+ciallaíonn an briathar “forordú” forordú le rialacháin.
+ciallaíonn an briathar “forordú”forordú le rialacháin arna ndéanamh ag an Aire.
+ciallaíonn an focal “bord” bord coimeádaithe.
+ciallaíonn an focal “cigire” aon duine arb éard é
+ciallaíonn an focal “cuntais” cuntais ar fháltais agus íocaíochtaí.
+ciallaíonn an focal “uiscí” aon abhainn, loch, sruth-chúrsa nó inbhear nó aon chuid den fharraige.
+ciallaíonn “An tAire” an tAire Sláinte.
+ciallaíonn “Bardas Bhaile Átha Cliath” Ard-Mhéara Ró-Onórach, Seanóirí agus Buirgéisigh Bhaile Atha Cliath.
+ciallaíonn “Bardas Chorcaí” Ard-Mhéara, Seanóirí agus Buirgéisigh Chorcaí.
+ciallaíonn “Bardas Dhún Laoghaire” Bardas Dhún Laoghaire.
+ciallaíonn “Bardas Luimnigh” Méara, Seanóirí agus Buirgéisigh Luimnigh.
+ciallaíonn “Bardas Phort Láirge” Méara, Seanóirí agus Buirgéisigh Phort Láirge.
+ciallaíonn “Coimisiún na Talún” Coimisiún Talún na hÉireann.
+ciallaíonn “an Aireacht” Aireacht Tráchtála Thuaisceart Éireann.
+ciallaíonn “an Bardas” Méara, Seanóirí agus Buirgéisigh Loch Garman.
+ciallaíonn “an Bhuirg” Buirg Loch Garman.
+ciallaíonn “an Bord amach” Bord Mhór-Iarnród an Tuaiscirt.
+ciallaíonn “an Bord” Bord Fáilte Éireann.
+ciallaíonn “an Bord” Bord Soláthair an Leictreachais.
+ciallaíonn “an Bord” Bord na gCon a bhunaítear leis an Acht seo.
+ciallaíonn “an Bord” Córas Iompair Éireann.
+ciallaíonn “an Bord” Córas Tráchtála a bhunaítear leis an Acht seo .
+ciallaíonn “an Bord” an Bord Gráin a bhunaítear leis an Acht seo.
+ciallaíonn “an Bord” an Bord Iascaigh Mhara.
+ciallaíonn “an Cathaoirleach” Cathaoirleach Dháil Éireann.
+ciallaíonn “an Cathaoirleach” Cathaoirleach Sheanad Éireann.
+ciallaíonn “an Chomhairle Chontae” Comhairle Chontae Loch Garman.
+ciallaíonn “an Chomhairle” Comhairle an Fhorais.
+ciallaíonn “an Chorparáid” an Chorparáid Airgeadais Idirnáisiúnta a bhunaítear faoin gComhaontú.
+ciallaíonn “an Chuideachta” Cuideachta Forbartha Aerfort Neamhchustam na Sionna Teoranta.
+ciallaíonn “an Chuideachta” Córas Tráchtála Teoranta .
+ciallaíonn “an Club” Club Cúrsála na hÉireann.
+ciallaíonn “an Cumann” Cumann Onórach Óstaí an Rí.
+ciallaíonn “an Foras” Brú Chaoimhín, Sráid Chorcaí, Baile Átha Cliath.
+ciallaíonn “an Foras” an Foras Talúntais a bunaítear leis an Acht seo.
+ciallaíonn “an Institiúid” An Foras Talúntais.
+ciallaíonn “an Lóiste Geata” an Lóiste Geata i Ráth Easpoig ar an Eastát.
+ciallaíonn “an Toghlach” Toghlach Bhord Ospidéal Fiabhrais Bhaile Átha Cliath (Comhaltaí Urghnácha).
+ciallaíonn “an cathaoirleach” cathaoirleach na Comhairle.
+ciallaíonn “an chéad dáta iomchuí”
+ciallaíonn “an dara dáta iomchuí”
+ciallaíonn “an dáta feidhme” dáta an Achta seo a rith.
+ciallaíonn “an dáta feidhme” dáta tosach feidhme na Coda seo den Acht seo.
+ciallaíonn “an lá iomchuí”
+ciallaíonn “an límistéar aistrithe” an límistéar a thuairiscítear sa Sceideal a ghabhann leis seo agus
+ciallaíonn “an naoú blianacht bhreise” an tsuim a mhuirearaítear
+ciallaíonn “an t-údarás iomchuí” Cathaoirleach Dháil Éireann.
+ciallaíonn “an tAire Tráchtála” Aire Tráchtála Thuaisceart Éireann.
+ciallaíonn “an tAire” an tAire Airgeadais.
+ciallaíonn “an tAire” an tAire Iompair agus Cumhachta.
+ciallaíonn “an tAire” an tAire Poist agus Telegrafa.
+ciallaíonn “an tAire” an tAire Rialtais Áitiúil.
+ciallaíonn “an tAire” an tAire Tailte.
+ciallaíonn “an tAire” an tAire Talmhaíochta.
+ciallaíonn “an tAire” an tAire Tionscail agus Tráchtála.
+ciallaíonn “an tOifigeach Probháide Cúnta”
+ciallaíonn “an tOspidéal” Ospidéal an tSilínghoirt, Baile Átha Cliath.
+ciallaíonn “an tsuim iomchuí” maidir le pinsean
+ciallaíonn “an tÚdarás” an tUdarás Forbartha Tionscail.
+ciallaíonn “blianacht talamh-cheannaigh” blianacht talamhcheannaigh is iníoctha le Coimisiún na Talún faoi na hAchtanna Talamh-Cheannaigh.
+ciallaíonn “comhalta” aon ath-oifigeach nó ath-sheirbhíseach nó duine den sórt a bhí i dteideal amhlaidh.
+ciallaíonn “cruinniú cúrsála údaraithe” cruinniú cúrsála arna údarú ag an gClub.
+ciallaíonn “cruithneacht” cruithneacht inmheilte dúchais.
+ciallaíonn “cuideachta” aon chomhlacht corpraithe a dhéanann trádáil.
+ciallaíonn “dáta iomchuí”
+ciallaíonn “faiche chúrsála údaraithe” faiche chúrsála ar a mbíonn cruinnithe cúrsála údaraithe ar siúl.
+ciallaíonn “fostaí” aon duine a fhaigheann díolaíochtaí .
+ciallaíonn “fostóir” aon duine a íocann díolaíochtaí .
+ciallaíonn “geall cúrsa”
+ciallaíonn “ioncam ó phaitinní”
+ciallaíonn “ioncam”, maidir le cáin bhrabús corparáide, brabús.
+ciallaíonn “léasaí foirgníochta” an léasaí faoi léas foirgníochta.
+ciallaíonn “míle farraige” fad nóiméid amháin de stua fhadlíne domhanfhaid.
+ciallaíonn “mór-reacaire tae láithreach” duine a bhfuil, ar dháta an Achta seo a rith
+ciallaíonn “na Coimisinéirí” Coimisinéirí na nOibreacha Poiblí in Éirinn.
+ciallaíonn “na Cánacha Éireannacha” cáin ioncaim (lena n-áirítear forcháin) agus cáin bhrabús corparáide.
+ciallaíonn “na cistí agróirí” na cistí agróirí atá dílsithe i gCuntasóir na gCúirteanna Breithiúnais.
+ciallaíonn “oifigeach do Thithe an Oireachtais” duine
+ciallaíonn “oifig” oifig arb í oifig Chléireach Dháil Éireann nó oifig Leas-Chléireach Dháil Éireann í.
+ciallaíonn “oifig” oifig arb í oifig Chléireach Sheanad Éireann nó oifig Leas-Chléireach Sheanad Éireann í.
+ciallaíonn “paitinn Éireannach” paitinn a deonaíodh faoi dhlithe an Stáit.
+ciallaíonn “pinsean lena mbaineann an fo-alt seo”
+ciallaíonn “post” post sa Státseirbhís’.
+ciallaíonn “rialacháin” rialacháin arna ndéanamh ag an Aire faoin gCuid seo.
+ciallaíonn “rás-rian con” rás-rian con ar a seoltar rásaí con ar luach saothair.
+ciallaíonn “seirbhís” aon cheann acu seo a leanas
+ciallaíonn “stiúrthóir”
+ciallaíonn “státseirbhíseach lena mbaineann an t-alt seo” comhalta de chomhfhoireann Thithe an Oireachtais.
+ciallaíonn “tobar peitriliaim” tolladh nó tochailt eile i bhforscreamh na talún chun peitriliam a astarraingt.
+ciallaíonn “trádálaí tae cláraithe” duine atá cláraithe de thuras na huaire.
+ciallaíonn “údarás tithe”
+ciallaíonn “údarás áitiúil” aon chomhlacht acu seo a leanas 
+cibé acu is lú.
+cibé acu is mó, agus
+cibé acu is mó.
+cibé daoine agus cibé méid daoine is cuí leis a fhostú.
+cibé dualgais eile a chomhlíonadh a ordóidh an bord
+cibé luach saothair a shocróidh an Rialtas ó am go ham
+cibé méid eile a mheasfaidh an tAire a bheith réasúnach.
+cibé suimeanna i leith caiteachais a mheasfaidh an tUdarás a bheith réasúnach.
+cigire do bhord coimeádaithe, nó
+cinneadh ar oibríochtaí na Corparáide a fhionraí go buan agus a sócmhainní a imdháil.
+cláir a thionscnamh agus cláir a fháil ó fhoinse ar bith.
+clár de chomhaltaí an Chlub; agus
+cláróidh an tAire an t-iarratasóir sa Chlár.
+clárú i Leabhar na gCon
+clófar air tréimhse a bhailíochta agus cibé sonraí eile a ordóidh an tAire
+cochall iascaireachta, nó
+coimeádaithe ex officio don cheantar iascaigh sin
+coin a bheidh ag coimhlint i mbeartanna den sórt sin a iompar
+coinníollacha a chur ag gabháil le ceada
+coinníollacha a chur ag gabháil le ceadúnais
+coiste freastail scoile
+coiste gairm-oideachais
+coiste talmhaíochta
+coláiste, scoil nó foras dá shamhail sin
+comhalta a chur ar fionraí.
+comhalta de bhord coimeádaithe.
+comhalta den Gharda Síochána, nó
+comhaltaí comhthofa a chomhthoghfar mar a fhoráltar anseo ina dhiaidh seo.
+comhaltaí nua a ghlacadh agus coinníollacha a nglactha a chinneadh.
+conarthaí a dhéanamh.
+conradh a dhéanamh.
+contae-bhuirg Luimnigh agus contae Luimnigh,”.
+cora iascaireachta a chur suas chun eascanna a ghabháil, nó
+cora iascaireachta a úsáidtear chun bradáin a thógáil, nó
+cora iascaireachta chun bradáin a thógáil, nó
+cora iascaireachta chun eascanna a ghabháil a chuir an Bord sin suas, nó
+costais oibrithe an iascaigh sin (lena n-áirítear pá, árachas agus costais mhargaíochta)
+costas bunaidh na sócmhainní fosaidh sin.
+crainn
+cruinnithe cúrsála poiblí a sheoladh nó páirt a ghlacadh ina seoladh; agus
+críocha na bhfo-alt roimhe seo den alt seo agus míre 
+cuid de scéim shochar scoir a cheadú, nó
+cuirfear an fho-mhír seo a leanas in ionad fo-mhíre 
+cuirfear an fho-mhír seo a leanas in ionad fomhíre 
+cuirfear na fo-mhíreanna seo a leanas le mír 
+cuirfear é go dtí an Rúnaí, an Roinn Tionscail agus Tráchtála, Baile Atha Cliath
+cuirfear “míle” i mír 
+cuirfidh an tAire faoi deara fiosrúchán poiblí a dhéanamh faoin iarratas sin
+cuirfidh sé faoi deara go ndéanfar dréacht den rialachán beartaithe
+cumhacht an Aire chun ceadúnais liúna éisc a heonú.
+cumhachtaí, cearta, dualgais agus dliteanais ionadaithe pearsanta maidir le heastát pearsanta
+cóip den mheastachán caiteachas
+cóip den mheastachán sealadach caiteachas a thaisceadh in oifigí an údaráis áitiúil
+cóipchearta, paitinní, ceadúnais, pribhléidí agus deonaíochtaí a fháil agus a úsáid.
+cóipeanna de na taifid a thabhairt don Bhord cibé tráth nó trátha a fhorordófar.
+cóiríocht d'éadaí
+cúigear
+cúrsáil chon agus cruinnithe cúrsála a sheoladh d'údaraigh an Club.
+d'fhónaigh sna fórsaí, agus
+d'éifeacht a bheith acu in aon cheantar printíseachta ina mbeidh éifeacht ag na rialacha.
+damba muilinn iascaireachta a úsáidtear chun bradáin a thógáil.
+damba muilinn iascaireachta chun bradáin a thógáil.
+dar deonaíodh pinsean, agus
+de mhír 
+den Bhearbha agus a craobh-aibhneacha
+den Fheoir agus a craobh-aibhneacha, agus
+den alt seo a chur ar taispeáint i stáisiúin vótála nó ina maighne
+den alt seo.
+den bhreis
+den fho-alt seo (de réir mar is gá sa chás), agus
+den fho-alt seo a chúlghairm.
+den fho-alt seo a dhéanfar leis an nglan-fháltas sin ansin
+den fho-alt seo an ionstraim sin a thaisceadh.
+den fho-alt seo mar ionadaí.
+den fho-alt seo, beidh feidhm ag na forálacha seo a leanas
+den fho-alt seo, mura rud é
+den fho-alt seo.
+den fho-alt sin gan comhlíonadh maidir le stiúrthóir páirtaimsire nó fostaí páirt-aimsire
+den fho-alt sin, nach é an soláthar sin aon-chuspóir na scéime.
+den mhír dheiridh, le comhalta ionaid malairte.
+den mhír roimhe seo ciallaíonn “tugadh faoi deara” a tugadh faoi deara
+den mhír seo a fheidhmiú, dul isteach ar aon talamh
+den tSiúir agus a craobh-aibhneacha
+deonú probháide an uachta nó litreacha riaracháin eastáit phearsanta an cheadúnaí
+dhá ghnáth-chomhalta.
+do chomhbhord a chomhlíonann feidhmeanna faoi na hAchtanna sin.
+do dhaoine a dhéanfaidh oibreacha ar thithe de cibé saghas nó saghsanna
+do dhaoine de cibé aicme nó aicmí, agus/nó
+do mhíngeacha a mhilleas barraí, nó
+do mhúscáin nó loitmhíola eile a mhilleas barraí, nó
+duine a rugadh sa Stát, nó
+dul ar bord an árthaigh sin
+dul isteach, agus saorchead a bheith aige istigh, gach tráth réasúnach
+dáta an deontais
+déanfar an cúiseamh i gcoinne an duine sin a dhíbhe.
+déanfar an cúiseamh in aghaidh an duine sin a dhíbhe.
+déanfar an cúiseamh ina choinne a dhíbhe.
+déanfar aon tagairt d'údarás ospidéal meabhair-ghalar fhorléiriú mar thagairt
+déanfar aon tagairt do thuarastal a fhorléiriú
+déanfar tagairtí do mhíngeacha millteacha nó loitmhíola d'fhorléiriú mar thagairtí
+déanfar é i scríbhinn chun cléireach an bhoird sin
+déanfar é san fhoirm fhorordaithe agus tabharfar na sonraí forordaithe ann.
+déileáil le hairnéisí réadacha roimh phrobháid nó litreacha riaracháin
+déileálfar ar leithligh leis an ngnó de gach aicme den tsórt sin, agus
+díbhinní a dhearbhú.
+dílseoidh an mhaoin sin san Údarás ar an lá bunaithe, agus
+díreach isteach san aerfort ó áit nó áiteanna lasmuigh den Stát, nó
+díthiomnacht, nó
+earra a chríochnú trí chumhacht mheicniúil d'úsáid
+earra a dhéanamh trí chumhacht mheicniúil d'úsáid
+earra d'athrú trí chumhacht mheicniúil d'úsáid
+earra d'oiriúnú, chun a díolta, trí chumhacht mheicniúil d'úsáid.
+earra d'órnáidiú trí chumhacht mheicniúil d'úsáid
+earraí a dhíol ar mionreic
+earraí a tháirgeadh nó a mhonarú lasmuigh den aerfort
+earraí inchaite a dhíol mar bhreosla aerárthach nó le loingsiú mar stórais aerárthach
+eiseofar ceadúnas slaite breac i leith gach slaite.
+eisiomláirí ionadaitheacha d'aon samplaí nó croíáin den sórt sin a thógáil.
+eisíocaíochtaí agus costas bliantúil i leith oifigí, áitreabh agus trealaimh an Fhorais
+faillí i bprobháid uachta a fháil
+faillí thiomnóra i seiceadóir a cheapadh, nó
+faoi réir an choinníll nach mbeidh feidhm ag mír 
+faoi réir mhír 
+faoin gcéad
+faoin tuairisc “an t-áititheoir” gan a ainm a lua
+feidhmiú Coistí Cúige an Chlub.
+feisteas
+feithicil atá á húsáid ag cuideachta údaraithe (iompartha mharsantais) chun críocha a gnó, agus
+finnéithe a ghairm chun teacht ina láthair ag an bhfiosrúchán sin
+finnéithe a thoghairm chun teacht i láthair an Choiste Chomhairlithigh sin.
+fiosrú ginearálta, nó
+fodhlí arna dhéanamh faoin Acht seo, nó
+foghail go toiliúil ar an iascach sin, nó
+foilseofar san Iris Oifigiúil é a luaithe is féidir tar éis a dhéanta, agus
+foinsí solais nó ionaid oibre a bheith suite go míchórach
+foirgnimh agus oibreacha eile a dhéanamh, agus a oiriúnú, agus
+folaíonn an abairt “cochall iascaireachta” inneall seasmhach ar aon-déanamh le cochall iascaireachta.
+folaíonn an abairt “líon tarraingthe” saighne.
+folaíonn an abairt “oifigeach don Aire” seirbhíseach don Aire.
+folaíonn an focal “aibhneacha” craobhacha abhann agus gach uile shruthán agus sruthchúrsa eile.
+folaíonn an focal “barr”
+folaíonn an focal “bosca”, maidir le cora iascaireachta nó damba muilinn iascaireachta, cruib nó cruibh.
+folaíonn an focal “breac”, nuair a úsáidtear é gan é a cháiliú
+folaíonn an focal “bád” báirse, coite, curach nó árthach eile.
+folaíonn an focal “bá” aon chuan nó ród.
+folaíonn an focal “eascann” liobhóga agus óg na n-eascann, ar a dtugtar mion-eascanna go coitianta.
+folaíonn an focal “inbhear” aon chuan nó ród.
+folaíonn an focal “screallach” gach talamh neamhshaothraithe nó neamh-thairbhiúil.
+folaíonn “an Stát” an límistéir atá anois ar áireamh sa Stát.
+folaíonn “cineál nó sórt”, maidir le hoifig, grúpa oifigí a tuairiscítear do réir áite.
+folaíonn “comhalta d'fhoireann Thithe an Oireachtais” oifigeach do Thithe an Oireachtais.
+folaíonn “cáin ioncaim” forcháin.
+folaíonn “cíos” aon íocaíocht tréimhsiúil i bhfoirm chíosa.
+folaíonn “feidhmeanna” cumhachtaí agus dualgais.
+folaíonn “muirir” táillí, rátaí nó dolaidh.
+folaíonn “múch” gás nó galán.
+folaíonn “scair” stoc seachas stoc bintiúra nó iasachtstoc.
+folaíonn “taighde” fiosrú, tástáil, turgnamh, taifeach agus staidéar.
+folaíonn “talamh” imeall trá agus talamh faoi uisce.
+folaíonn “uacht” codaisíl.
+folaíonn “urrúis” stoic agus scaireanna.
+folaíonn “ús” díbhinn.
+folóidh an míniú ar “earraí”
+folóidh sí údarás sláinte a bhunaítear leis an Acht seo, agus
+forléireofar an tagairt do ghnáth-cheadúnas mar thagairt do ghnáth-cheadúnas iascaireachta.
+forléireofar aon tagairt do cháin mar thagairt nach bhfolaíonn tagairt d'fhorcháin.
+forléireofar tagairtí do dhuine mar thagairtí do chuideachta agus ní mar thagairtí do phearsa
+forléireofar “an bord” mar abairt a thagraíonn don bhord díscaoilte
+forléireofar “an bord” mar ní a thagraíonn do Bhord Ospidéal Meabhair-Ghalar Luimnigh
+forléireofar “an t-údarás” mar ní a thagraíonn d'Údarás Sláinte Chorcaí, agus
+forléireofar “an t-údarás” mar ní a thagraíonn d'Údarás Sláinte Luimnigh, agus
+forléireofar “an t-údarás” mar ní a thagraíonn d'Údarás Sláinte Phort Láirge, agus
+forléireofar “tosach feidhme” mar abairt a thagraíonn do thosach feidhme an fho-ailt seo.
+forléireofar “tosach feidhme” mar ní a thagraíonn do thosach feidhme an fho-ailt seo.
+foráil
+foráil go bhféadfaidh An Chomhairle comhalta a chur as oifig
+foráil go mbeidh an coiste comhdhéanta de chathaoirleach agus uimhir shonraithe gnáth-chomhaltaí
+foráil go mbeidh duine a cheapfar faoin bhforáil a dhéantar faoi mhír 
+foráil go ndéanfaidh An Chomhairle
+foráil i dtaobh téarma oifige na gcomhaltaí
+freastal ar chruinnithe uile an bhoird
+fáil aon dearbhaithe nó fógra a rinneadh faoi Airteagal XXV agus a dháta; agus
+fáil aon fhógra a rinneadh faoi Airteagal XXVI agus a dháta.
+fáil aon fhógra shéanta a fuarthas agus a dháta.
+féachfaidh an Chorparáid chuige gur infheistíochtaí réasúnta éagsúil a hinfheistíochtaí.
+féadfaidh an Bord
+féadfaidh an Bord láithriú trí abhcóide nó aturnae nó trí oifigeach don Bhord
+féadfaidh an Chúirt a ordú an bád a fhorghéilleadh.
+féadfaidh an t-achomharcóir i bpearsain láithriú nó trí abhcóide, aturnae nó gníomhaire
+féadfaidh an tAire a ordú an ní sin
+féadfaidh an tAire géilleadh don iarratas nó diúltú dó
+féadfaidh an tAire, chun na cumhachtaí a thugtar le fo-mhír 
+féadfaidh sé an bád sin a chuardach.
+féadfaidh sé baint leis an Stát go léir nó le límistéar áirithe sa Stát
+féadfaidh sé dul ar bord an bháid sin.
+féadfar an t-airgead sin a infheistiú in aon urrúis acu seo a leanas
+féadfar cóipeanna den ráiteas dá dtagartar i mír 
+féadfar deimhniú a dheimhneoidh mar a fhoráiltear dó i mír 
+féadfar iad a dhéanamh d'oifig áirithe nó d'aon chineál nó sórt oifige
+ga eascann a úsáidtear chun eascanna a thógáil.
+gabhadán
+gach ceadúnas slaite breac a eiseofar
+gach comhalta den Gharda Síochána.
+gach iasc de chineál an bhric rua
+gach ní eile maidir le riaradh eastáit phearsanta, beidh feidhm aige
+gach oifigeach Custam agus Máil a bheidh údaraithe chuige sin ag na Coimisinéirí Ioncaim.
+gach oifigeach don Aire a bheidh údaraithe chuige sin ag an Aire.
+gach sampla a gheofar agus a choinneofar amhlaidh a scrúdú.
+gach éilitheoir.
+gan  bheith  níos  mó  ná
+glacadh le díol ag aon díolachán poiblí con.
+gnáth-cheadúnas (bliantúil) 
+gnáth-cheadúnas (séasúr déanach) 
+gnáth-cheadúnas iascaireachta (nach gnáth-cheadúnas slaite bradán)
+gnáth-cheadúnas iascaireachta, nó
+gnáth-cheadúnas slaite bradán (bliantúil) 
+gnáth-cheadúnas slaite bradán (séasúr déanach) 
+gníomhairí is cúis le galar bairr inaistrithe.
+go 
+go bhfuil an coinníoll atá i mír 
+go bhfuil cleachtais srianta ann maidir le déanamh aon tseirbhíse, agus
+go bhfuil cleachtais srianta ann maidir le soláthar nó imdháil aon earra, agus
+go bhfuil siad eadarscartha faoi ordú cúirte dlínse inniúla nó le gníomhas eadarscartha, nó
+go dtabharfaidh cúirt dlínse inniúla pianbhreith phríosúntachta nó phianseirbhíse air, nó
+go dtairgfidh an duine sin suim cúig scilling
+go dtairgfidh an duine sin suim sé phingin
+go dtí go socrófar amhlaidh é, is triúr é.
+go gciontófar an duine sin sa chion, agus
+go gcoinneofar an bád faoin gCaibidil seo
+go gcruthófar gur cuireadh an bhacainn sin sa tsaorbhearna sin
+go gcruthóidh sé gur eisíodh deimhniú i leith an ghabhdáin sin faoi mhír 
+go gcruthóidh sé gur go dleathach ar gach slí eile a gabhadh an bradán
+go gcruthóidh sé gur go dleathach ar gach slí eile a gabhadh an breac
+go gcuirfear i dteannta an iarratais sin
+go gcúiseofar duine i gcion faoin alt seo maidir le bradán nó breac, agus
+go gcúiseofar duine i gcion faoin bhfo-alt seo maidir le bradán, agus
+go gcúiseofar duine i gcion faoin bhfo-alt seo maidir le breac, agus
+go gcúiseofar áititheoir an mhuilinn nó na monarchan sin sa chion sin.
+go gcúiseofar úinéir nó áititheoir an mhuilinn nó na monarchan sa chion sin
+go mainneoidh áititheoir na cora sin déanamh do réir na gcoinníollacha sin.
+go mbeidh rialacháin faoin bhfo-alt seo i ngníomh de thuras na huaire
+go mbreithneofar ina fhéimheach é nó go ndéanfaidh sé comhshocraíocht lena chreidiúnaithe, nó
+go n-oibreoidh nó go n-úsáidfidh an duine sin an gléasra
+go n-úsáidtear í agus slí bheatha ag an duine a thóg amach an ceadúnas
+go n-úsáidtear í i riocht nó ar shlí nó chun críche, nó
+go ndearna an Bord dámhachtain
+go ndearnadh an leas tairbhiúil go léir sa mhaoin iomchuí a dhílsiú san aistrí
+go ndearnadh an léas
+go ndearnadh aon suimeanna (dá ngairtear na suimeanna sin feasta san alt seo)
+go ndearnadh seachtar comhaltaí ar a laghad den Pháirtí a thoghadh san olltoghchán sin.
+go páirteach as an ioncam sin agus go páirteach as an gcaipiteal sin.
+go páirteach i gcomaoin na híocaíochta sin agus an chaiteachais sin; agus
+go raibh an t-aistreoir i dteideal an leasa thairbhiúil go léir sa mhaoin iomchuí
+go scoirfidh sé de bheith ina ghnáth-chónaí sa Stát.
+gur ceadaíodh an scéim le rún ó gach Teach den Oireachtas
+gur cheannaigh an duine sin an tae sin sa tír inar táirgeadh í, nó
+gur chuir dílsiú an iascaigh sin deireadh leis an bhfostaíocht sin aige, agus
+gur chun eascanna a ghabháil atá an líon sin déanta.
+gur ciontaíodh an duine sin i gcion faoin Acht seo
+gur cuideachta eisiata an chuideachta sin, nó
+gur cuideachta phoiblí í faoi thórainn scaireanna agus gur cuideachta Éireannach í
+gur deimhin leis an Aire
+gur deimhin leis gur sáraíodh coinníoll a ghabhann leis an gceadúnas, nó
+gur duine faoi bhun seacht mbliana déag d'aois an duine sin
+gur dá réir sin a rinneadh na measúnachtaí uile a rinneadh roimhe sin.
+gur fo-léas (idirmheánach nó neasach) faoi léas foirgníochta an léas; agus
+gur léas é in aghaidh téarma nach giorra ná naoi mbliana is nócha, nó
+gur mhainnigh áititheoir na cora sin déanamh de réir na gcoinníollacha sin.
+gur sa Stát atá sí á bainistí agus á rialú
+gur scéim í a rinne comhchoiste de dhá Theach an Oireachtais
+gur thug Stoc-Mhargadh luachaíocht i leith gach cinn ar leithligh den aicme scaireanna sin.
+gur tugadh liúntas bliantúil dó dá réir sin don bhliain mheasúnachta.
+gur tógadh na buan-fhoirgnimh
+gurb é únaer tairbhiúil na scaireanna sin é, agus
+gurb í an Chuideachta nó trádálaí tae cláraithe an duine sin, agus
+géillfear don iarratas.
+hÉireann.
+i dtaobh ionstraimí den tsórt sin d'eisigh sé féin.
+i dtaobh téarmaí an orduithe bheartaithe.
+i gcás
+i gcás an chéad chiona, fíneáil nach mó ná dhá phunt a chur air
+i gcás an dara cion, fíneáil nach mó ná cúig phunt a chur air
+i gcás aon cheann-chora, nach ndéantar a iascaireacht le líon seasmhach.
+i gcás ceantair uirbigh, comhairle an cheantair uirbigh sin.
+i gcás gnáth-cheadúnas iascaireachta eile—bliain.
+i gcás ina bhfuil sirriam ann don chuid eile sin den dáilcheantar—an sirriam sin
+i gcás ina mbeidh teideal ag an Aire faoi fho-mhír 
+i gcás ina n-ainmneofar oifigeach eile den tsórt sin faoi mhír 
+i gcás inar uimhir is inroinnte ar cheathair gan fuílleach iomlán comhaltaí an údaráis
+i gcás nach mbeidh feidhm ag mír 
+i gcás oifigí atá ar áitiú ag an Stát—an tAire
+i gcás údarás áitiúil ag a mbeidh coiste meastachán, an coiste, agus
+i mír 
+i ngach cás eile—an t-údarás sláintíochta
+i ngach stáisiún Garda Síochána sa limistéar lena mbainfidh an ionstraim sin.
+iasc a cheannach agus a dhíol in áit ar bith.
+iasc a táirgeadh sa Stát ar fheirm éisc, agus
+iascach cora (fíoruisce), nó
+iascach cora (uiscí taoide), nó
+iascach damba muilinn
+iascach innill sheasmhaigh (uiscí taoide), nó
+im
+imeachtaí dlíthiúla a thionscnamh.
+in aon aeradróm, piara, cé caladh, lamairne, duga nó áitreabh duga, nó
+in aon chás eile
+in aon chás eile, an bainisteoir.
+in aon chás eile, an tAire Airgeadais.
+in aon chás eile, beidh an duine a choisc an cigire ciontach i gcion.
+in aon chás eile, ciallaíonn an abairt sin
+in aon chás eile, díreach roimh dháta tosaigh tréimhse na hiasachta, agus
+in aon chás eile, díreach roimh dháta tosaigh tréimhse na hiasachta.
+in aon chás eile, mar thagairt dá ndíol aige.
+in aon chás eile—an cláraitheoir contae don chuid eile sin den dáilcheantar.
+in aon chás eile—an dáta a luadh na hurrúis i gcéaduair amhlaidh.
+in aon chás nach mbeidh feidhm maidir leis ag mír 
+in ionad “trí mhíle”.
+ina bhfuil oscailt nó oscailtí inar féidir iasc a thógáil, agus
+ina bhfuil sealbhóir an cheadúnais i dteideal cearta iascaireachta, agus
+ina chúis mhíchompóirte ná díobhála ó ghreantacht nó scalladh isteach i súile an oibrí.
+ina dhiaidh sin den bhreis
+ina fhianaise nó go gcruthófar a mhalairt ar na fíorais sin.
+ina fhianaise nó go gcrúthófar a mhalairt ar na fíorais sin.
+ina fhostaí dílseánach, nó
+ina fhostaí páirt-aimsire
+ina fhostaí páirt-aimsire.
+ina gceanglaíonn an fhoráil comhlíonadh laistigh de thréimhse áirithe, agus
+ina gcearta agus ina n-oblagáidí de chuid an Bhoird.
+ina gciontófar duine i gcion faoin alt seo, agus
+ina gciontófar i gcion faoin Acht seo an ceadúnaí faoi cheadúnas rás-riain chon, nó
+ina gcoinneoidh oifigeach údaraithe aon iasc ina choimeád faoin alt seo, agus
+ina mbeidh sonraí na measúnachta bunaidh agus na méide atá gan íoc faoi, agus
+ina mbeidh teideal ag duine vóta a chaitheamh sa vótáil i reifreann
+ina ndéanfar achomharc faoin alt seo i gcoinne rialacháin, agus
+ina stiúrthóir dílseánach
+ina stiúrthóir páirt-aimsire
+ionadaithe pearsanta an úinéara sin a bheith marbh nó lasmuigh den dlínse
+ioncam is cúis le muirear cothromaíochta faoin gCaibidil seo.
+ionscálaí agus heic gach bosca sa chora bradán sin, agus
+ionstraimí ina mbeidh athruithe ar théarmaí nó coinníollacha aon pholasaí árachais seachas árachas saoil.
+is ar mholadh an Aire a thabharfar iad
+is as an bPríomh-Chiste nó a thoradh fáis a íocfar iad
+is asbhaintí i leith íocaíochtaí a rinne sé, nó
+is breis maidir le feithicil gach ní acu seo a leanas
+is breis, maidir le feithicil, gach ní acu seo a leanas
+is ceadúnas limistéir fhorcoimeádta.
+is ceadúnas lorgaireachta peitriliaim, nó
+is ceadúnas taiscéalaíochta
+is comhlacht corpraithe le comharbas suthain an t-údarás.
+is cora iascaireachta chun bradáin a thógáil, nó
+is cosaint mhaith don úinéir nó don áititheoir sin a chruthú
+is córam nach lú na triúr é, agus
+is damba muilinn iascaireachta chun bradáin a thógáil.
+is duine
+is foirgneamh nó déanmhas tionscail, ach
+is go hingearach a bheidh barraí heice an bhosca
+is i cibé foirm a ordóidh an tAire a bheidh sé
+is i cibé foirm a ordóidh an tAire, a bheidh sé
+is i pé foirm a ordóidh an tAire a bheas sé
+is i scríbhinn a bheidh sé
+is i scríbhinn a dhéanfar é
+is sa chuid is doimhne den sruth a bheidh an saor-bhearna
+is í scríbhinn a bheidh sé
+le Bord Soláthair an Leictreachais
+le Bord Soláthair an Leictreachais do bhaint úsaide as
+le Ciste Luaíochta an Gharda Síochána suim is comhionann le trian den ghlan-fháltas sin
+le ciste, is ciste de réir bhrí an ailt seo
+le dearbhú reachtúil ó dhuine a bhfuil eolas aige féin ar na fíorais
+le haghaidh gnóthais duga.”
+le haon duine a bheidh ag gníomhú faoi údarás an Aire, ná
+le haon ghníomh nó ní a rinne Comhlucht Siúicre Éireann, Teoranta, ná
+le haon inneall seasmhach chun bradáin a ghabháil, ná
+le haon líon saighne, ná
+le haon sruth-líon chun pilséir nó iasc seachas scadáin a ghabháil, ná
+le hathrú a dhéanfas miondíoltóir ar aon earra a bheartós sé a mhionreic, ná
+le háitreabh ná coda d'áitreabh atá ar áitiú ag Óglaigh na hÉireann
+le linn an tséasúir choiscthe bhliantúil d'eascanna, nó
+le linn aon ghaol a chomhaireamh
+le pinsean míchumais is iníoctha amhlaidh.
+le tae
+le talmhaíocht, ná
+le toiliú an Aire, áitribh a thógáil, a threalamhú agus a chothabháil
+leas ar bith aige in aon chonradh a bheartóidh an Bord a dhéanamh
+leas ar bith in aon chonradh a bheartóidh an Bord a dhéanamh
+leis an bpróis mhuilleoireachta cruithneachtan, ná
+lena mbaineann an fo-alt seo.
+lonnracht an tsolais, ná
+luach an eastáit, má b'ann.
+luafar ann
+luafar freisin san fhógra
+luafar sa bhfógra freisin
+luafar san fhógra freisin
+líon cuaillí, nó
+líon tarraingthe seasmhach, nó
+maidir le gnáth-cheadúnas iascaireachta, an dleacht cheadúnais is iníoctha ar an gceadúnas sin.
+maidir le hÚdarás Sláinte Luimnigh—comhairle chontae Luimnigh, Bardas Luimnigh agus Bord Ospidéal Meabhair-Ghalar Luimnigh.
+maidir le húdarás ospidéil mheabhar-ghalar, an tAire Sláinte.
+maidir le húdarás áitiúil, seachas údarás ospidéil mheabhair-ghalar, an tAire Rialtais Áitiúil, agus
+maidir le post duine de chomhfhoireann Thithe an Oireachtais—Cathaoirleach Dháil Éireann”.
+maidir le státseirbhíseach arb é Cléireach nó Leas-Chléireach Sheanad Éireann é, Cathaoirleach Sheanad Éireann,”.
+maidir leis an iarmhéid, i gcomhréir le méideanna a n-ioncam inmheasúnaithe faoi seach.
+maidir leis an léas
+maidir leis na brabúis as an iascach sin roimh thosach na hidirthréimhse, nó
+mainistir, clochar nó foras dá shamhail sin
+maoin dochorraithe agus maoin shochorraithe a fháil agus a dhiúscairt.
+maoin nó dliteanais a aistriú nó a choinneáil
+maor uisce coimeádaithe, nó
+maor uisce príobháideach, nó
+maor uisce príobháideach.
+marcálfaidh an t-oifigeach ceannais ansin an páipéar ballóide de réir freagra an vótálaí;”
+marsantas a ghlacadh, a chur ar aghaidh, a iompar agus a sheachadadh
+measfar gur léas foirgníochta an léas foirgnithe.
+mura dtuigeann an vótálaí brí na ceiste sin
+mura gcomhlíonfar forálacha mhír 
+mura lú ná deich bpunt an dleacht ceadúnais ina leith, ceithre vóta.
+mura lú ná deich bpunt an méid sin, ceithre vóta
+murab é an duine sin úinéir an bháid, agus
+muran cabhaire comhsheasamhach do chúrsáil chon é; agus
+muran in Éirinn atá gnáth-chónaí air.
+muran in Éirinn atá gnáth-chónaí air; nó
+muran léas foirgníochta cheana féin an fo-léas sin, measfar gur léas foirgníochta é.
+má bhíonn an chuideachta á shuíomh sin ina hiarratas, ansin
+má bhíonn sé tar éis scor de bheith ina chomhalta den Phainéal, nó
+má chinneann an Chuideachta láithreach gan gníomhú faoi mhír 
+má chuirtear agóid chun an Aire amhlaidh, ansin
+má mhainníonn úinéir an ghabhdáin sin an dualgas a chuirtear air le mír 
+má mhodhnaítear an céanna amhlaidh, ní dhéanfar ordú amhlaidh.
+má tháinig sí chun bheith iníoctha laistigh de bhliain ón dáta sin, agus
+más de réir mhír 
+más deimhin leis go ndearnadh sarú ar aon choinníoll a ghabhann leis an údarás.
+más deimhin leis go ndearnadh sárú ar aon choinníoll a ghabhas leis an údarás.
+más deimhin leis go ndearnadh sárú ar aon choinníoll dá mbeidh sonraithe sa cheadúnas.
+más iascach cora (uiscí taoide) nó iascach cora (fíoruisce) an t-iascach sin
+más iascach damba muilinn an t-iascach sin
+más in aghaidh tréimhse sonraithe a íocfar an díbhinn, brabúis na tréimhse sin.
+más léir don Ard-Chúirt go raibh cinneadh an iniúchóra earráideach
+más lú na trí phunt an dleacht cheadúnais ina leith, vóta amháin
+más lú ná trí phunt méid an ráta iascaigh sin, vóta amháin
+más rud é
+méad an phinsin chréachta sin is iníoctha faoi na hAchtanna, móide
+méad an phinsin mhíthreora sin is iníoctha faoi na hAchtanna, móide
+méid a chúltacaí sa mhéid gur as brabúis a soláthraíodh iad
+méid a cúltacaí sa mhéid gur as brabúis a soláthraíodh iad
+méid agus cruth na limistéar a bhféadfar na ceadúnais sin a dheonú ina leith.
+méid aon liúntais chothromaíochta a tugadh dó roimhe sin i leith an chaiteachais.
+méid aon liúntais thaighde eolaíochta a thabharfar dó i leith an chaiteachais, agus
+míle punt
+mír 
+na cearta do dhul in éag gan iad a athbheochan ina dhiaidh sin.
+na codanna fioruisce de na huisci sin, agus
+na codanna fíoruisce de na huiscí sin, agus
+na codanna taoide éagsúla den Bhearbha agus den Fheoir
+na coinníollacha nach mór d'iarratasóirí na gceadúnas sin a chomhlíonadh
+na coraí nó na déanmhais eile go léir atá air.
+na cuntais sin a scrúdú
+na daoine dá dtabharfar na tuairisceáin sin.
+na foirmeacha ina mbeidh na tuairisceáin sin le tabhairt.
+na hAchtanna a bhaineann le póstaí a chlárú
+na huisci ata i dToghranna Taiode "B" agus "C" de Cheantar Phort Láirge
+na huiscí atá i dToghroinn Thaoide “B” de cheantar Luimnigh.
+na modhanna ar a ndéantar an tseirbhís sin ag daoine a dhéanann í.
+na nithe a bhforáltar ina leith sna forála roimhe seo den Chuid seo
+na slite agus na modhanna go léir ar a n-oibrítear é.
+na slite go léir chun teacht air.
+na taifid a choime ád go ceann na tréimhse for ordaithe
+na tailte agus na háitribh go léir a úsáidtear go dleathach i ndáil leis.
+na tráthanna a bheidh na tuairisceáin sin le tabhairt.
+na tráthanna agus na háiteanna a suífidh an Bord.
+na tuairisceáin a bheidh le tabhairt uathu ag sealbhóirí ceadúnas áitiúla speisialta.
+na táillí a bheidh le n-íoc ar aon cheann de na hiarratais sin
+nach bhforálann go n-íocfar aon bhlianacht ar shlí seachas ar feadh saoil an bhlianachtóra
+nach bhfuasclófar aon scaireanna den sórt sin mura mbeidh siad íoctha go hiomlán.
+nach bhfuil a chothrom d'fhostaíocht ar fáil dó ina hionad
+nach bhféadfar seirbhís ar bith a thabharfaidh duine in aon fheidhmeannas, agus é
+nach ceann-chora é.
+nach feabhsú do réir bhrí an Achta seo na buanfhoirgnimh.
+nach féidir le sochair na scéime faibhriú ach
+nach gcoinneoidh iasc-bhealach glan ó gach bacainn
+nach insannaithe go hiomlán ná go páirteach na pinsin ná na blianachtaí faoin scéim.
+nach mbeidh an fógra arna chomhlíonadh tráth na húsáide sin
+nach n-oibrítear amhlaidh faoi chomhaontú dháthaobhach idirnáisiúnta ar páirtí ann an Rialtas
+nach ndearna an t-áititheoir de réir cheanglais an fhógra
+nach ndéanfaidh an coiste printíseachta sin de réir an iarratais
+nach raibh an trádáil á seoladh aige
+nár tógadh na buan-fhoirgnimh contrártha d'aon chúnant coinníoll nó comhaontú sa léas.
+nár úsáid an duine an t-innealra nó an gléasra chun críocha na trádála
+ní bheidh aon chomhairleoir ina chomhalta de bhreis agus grúpa amháin.
+ní bheidh duine ar bith seachas an tAire i dteideal vótáil trí sheachvótálaí
+ní bheidh feidhm acu in aon slí eile.
+ní bheidh feidhm ag an scéim nua maidir leis ná ina leith, agus
+ní bheidh siad níos mó ná dhá mhilliún punt san iomlán
+ní dheonófar aon cheadúnais den sórt sin d'aon daoine ach amháin do dhaoine fabhraithe.
+ní fholaíonn “comhalta de chomhfhoireann Thithe an Oireachtais” oifigeach do Thithe an Oireachtais.
+ní ghearrfar an muirear
+ní ghearrfar an muirear ach amháin ar mhéid is comhionann leis an difríocht
+ní ghníomhóidh sé, gan údarás ón Aire, mar chomhalta den Choiste Comhairlitheach sin
+ní thabharfar aon liúntas tosaigh don cheannaitheoir, agus
+níos mó ná
+nó
+nó 
+nó duine a ainmneoidh an Treoraí sin,”.
+nó fo-mhír 
+nó i bhfo-mhír sin 
+nó mhír 
+nó mír 
+oibreoidh deonadh an léasa mar fhuascailt ar an dámhachtain chúitimh sin; agus
+oibríocht trádála arna déanamh i gcúrsa trádála sa Bhreatain Mhóir nó i dTuaisceart Éireann.
+oifig ar gá, i dtuairim an Údaráis, saincháilíochtaí chuici nach gnáthach ag daoine, nó
+oifigeach arna cheapadh ag an Aire, nó
+oifigeach arna cheapadh ag an Aire.
+oifigí agus áitribh a dhéanamh, a threalamhú agus a chothabháil.
+oifigí agus áitribh a thógáil, a threalamhú agus a chothabháil.
+oiriúnach a chur ar fáil, agus”.
+ordú nó údarás a thabhairt
+ospidéal, sanatóir, teach eadarshláinte nó foras eile dá shamhail sin
+othair a aistriú.
+paisnéirí agus a mbagáiste a iompar
+peitriliam a thomhas
+praghsanna earraí a díoltar le honnmhuiriú nó a honnmhuirítear le díol.
+praghsanna éisc as an mbád agus idirbhearta uile an Bhoird Iascaigh Mhara.
+punt ina dhiaidh sin den bhreis
+páirt
+pé cumhachta eile d'fheidhmiú is gá chun an tAcht seo a chur in éifeacht.
+roinnfear stórais agus ábhair go cothrom de réir luacha idir na páirtithe.
+rás-rianta con, faichí cúrsála údaraithe agus a soighnis a fheabhsú
+sa bhliain
+sa tseachtain
+saoráidí chun béilí d'ullmhú agus a chaitheamh
+saoránach Éireannach, nó
+scoláireachtaí agus dámhachtana eile a chur ar fáil chun taighde talmhaíochta iarchéime a dhéanamh
+scor den chion sin, agus
+scrúdú sóisearach do dhaoine a mbeidh tuairim leath a dtréimhsí printíseachta críochnaithe acu, agus
+scáthadh neamh-oiriúnach, ná
+scéim aoisliúntais reachtúil
+scéim eiscthe, nó
+seiceanna.
+seirbheálfaidh an tAire cóip den tuarascáil sin ar an áititheoir sin
+seirbhís aer-iompair a oibriú seachas seirbhís aeriompair
+seirbhísí a dhéanamh do dhaoine a chónaíonn sa Stát lasmuigh den aerfort
+seirbhísí a dhéanamh sa Stát
+seirbhísí agus saoráidí a sholáthar i ndáil le talamh, agus
+seomraí scíthe
+slaite bradán
+slaite bradán d'eisiúint.
+slaite bradán lena mbaineann an fo-alt seo.
+slaite bradán.
+socruithe chun daoine a fostaítear a mhaoirsiú.
+socruithe le haghaidh othar-chúraim agus céad-chabhrach
+soláthar éadaigh chosanta
+sonraí ar imeachtaí an Aire faoin Acht seo, agus
+sonraí na ráthaíochta
+sonraí íocaíochtaí a rinneadh chun sochair a sholáthar faoin scéim
+sonróidh sé an bhliain ar ina haghaidh a eisíodh an ceadúnas sin.
+srianta le huisce agus dramhtháirgí a dhiúscairt
+stoc de chuid Bhanc na hÉireann
+suim is comhionann le luach saothair deiridh an duine
+suim is ionann agus an tsuim cheaptha
+sula gcinnfidh an t-údarás iomchuí gan ordú a thabhairt faoi mhír 
+suíomh agus spásáil toibreacha peitriliaim
+sárú, trí ghníomh nó neamhghníomh, ar fhoráil aon ordaithe faoin gCuid seo, nó
+sé bliana ar a laghad a bheith caite ó bhás an lán-úinéara éagtha, agus
+sé mhí a bheith caite ó bhás an cheadúnaí.
+séalófar é le séala an bhoird choimeádaithe sin.
+séalófar é le séala boird choimeádaithe an cheantair ina bhfuil na huiscí taoide sin.
+síneoidh comhaltaí uile an Bhoird í
+síol, planda agus aon chuid de shíol nó planda.
+tAonú Bliain Déag
+tabharfaidh an Ard-Chúirt breith ar ábhar áirithe an ghearáin
+tabharfaidh an t-áititheoir sin fógra don Aire i dtaobh an iarratais.
+tabharfaidh ar t-eadránaí aird go príomha
+tagairt d'áitreabh
+taifid a choimeád a thaispeánfaidh
+taisceadh aon ionstraime daingniúcháin nó gabhála i leith an Phrótocoil seo agus a dháta.
+talamh a cheannach nó a thógáil ar léas
+talamh a fháil
+thuas, ach amháin clásal 
+thuas.
+titim deiridh an dliteanais fhorchurtha
+toghranna nua a cheapadh (trí chónascadh, fo-roinnt nó eile)
+toir
+toirmeasc ar líonta a úsáid
+tollaphoill tréigthe a dhúnadh
+toradh taighde thalmhaíochta d'fhoilsiú nó a thabhairt go bhfoilseofar é.
+tosaíocht don cháin i gcás féimheachta nó eastát dhuine éagtha a riaradh
+tosóidh an liúntas
+trí chomhaontú idir na húdaráis lena mbainfidh arna dhéanamh le toiliú an Aire, nó
+trí dheontas den sórt sin.
+trí “leis” a chur in ionad “leis an gceadúnaí”.
+tríd an bhfógra a sheachadadh dó, nó
+tríd an doiciméad a sheachadadh don duine sin, nó
+tríd an gceadúnaí faoi cheadúnas lorgaireachta peitriliaim d'fheidhmiú a cheart faoin gceadúnas, nó
+tríd an mír seo a leanas a chur isteach i ndiaidh mhír 
+tríd na míreanna seo a leanas a chur leis
+trína fhágáil ag gnáth-áit chónaithe an duine sin.
+trína sheachadadh don duine chun a mbeidh sé dírithe, nó
+trína sheachadadh don duine sin.
+trína sheachadadh dó, nó
+tuairisceofar inti
+tá an bhrí chéanna le “post eisiata” atá leis in Acht na gCoimisinéirí.
+tá le “Coinbhinsiún Warsaw” an bhrí chéanna atá leis sa Phríomh-Acht.
+táillí i leith inseamnaithe shaorga.
+táillí i leith seirbhísí a tugtar i ndáil le bancaeracht nó árachas.
+táillí i leith seirbhísí a tugtar lasmuigh den Stát.
+táillí i leith seirbhísí ar seirbhísí gairmiúla go hiomlán iad.
+uimhir nó ainm an cheantair iascaigh sin
+uisce-choimeádaí arna cheapadh ag bord coimeádaithe, nó
+uisce-choimeádaí príobháideach, nó
+ullmhófar agus clófar é i cibé foirm a ordóidh an tAire
+urrúis arna ráthú ag an Aire Airgeadais maidir le caipiteal agus ús
+urrúis de chuid an Rialtais
+urrúis de chuid rialtas Stát Aontaithe Mheiriceá
+urrúis de chuid rialtas Thiarnas Cheanada
+urrúis de chuid rialtas na Breataine Móire
+urrúis ina mbeidh infheistíochtaí aici a ráthú lena ndíol a éascú.
+Áiseanna sláintíochta.
+Áitribh Áirithe a Rialú
+Éirí As agus Cur as Oifig.
+Íocaíochtaí ón Aire in ionad ráta iascaigh.
+Údaráis láithreacha d'fhanúint i bhfeidhm.
+Údarás Sláinte Bhaile Átha Cliath.
+Údarás Sláinte Chorcaí.
+Údarás Sláinte Luimnigh.
+Údarás Sláinte Phortláirge.
+Údarás chun oisrí a dhreideáil le linn an tséasúir choiscthe d'oisrí.
+Údarás forfheidhmiúcháin.
+Úsáidfidh údarás áitiúil aon íocaíocht a thabharfar dóibh faoi mhír 
+á cheangal ar an duine sin na bearta sin a dhéanamh
+é d'allmhuiriú díreach ón tír inar táirgeadh é, nó
+é d'allmhuiriú faoi réim agus do réir údaráis ón Aire.
+éag an cheadúnais
+éifeacht phrobháide nó litreacha riaracháin maidir le hairnéisí réadacha
+íoc costas riaracháin, agus
+íoc ionstraime lena mbaineann an t-alt seo a ghlacadh do chustaiméir; nó
+íoc na cánach a fhorchur de dhliteanas, agus maidir leis an gcáin a ghnóthú
+íocaíochtaí i leith suibscríobh chun na Corparáide
+ó ardú céime sa ghnáth-chúrsa
+ó ghnáth-oibriú scála bhreisithigh díolaíochtaí
+úinéir aon iascaigh bhradán ar chósta na farraige
+úinéir aon iascaigh in aon abhainn nó loch
